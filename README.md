@@ -1,4 +1,4 @@
-# HS Trader — Step 0 Baseline Freeze: Developer Evidence Pack
+# HS Trader — Developer Pack
 
 ## Project Information
 
@@ -73,7 +73,7 @@ POST /login → POST /token → POST /refresh/token → DELETE /logout
 | Evidence Type | File / Link | Description |
 |---------------|------------|-------------|
 | Swagger Spec | https://dev.hstrader.com/swagger/index.html#/ | Full API specification (login with admin role) |
-| API Docs | [api-flow](evidence/api.md) | Authentication + Rate limit setup |
+| API Docs | [API-Docs](evidence/api.md) | Authentication + Rate limit setup |
 
 
 ---
@@ -104,9 +104,9 @@ HS Trader uses a dual-database model:
 
 | Evidence Type | File / Link | Description |
 |---------------|------------|-------------|
-| DDL Dump | [schema_dump](evidence/schema_dump.sql) | Structure dump from script |
-| ERD Diagram | [ERD](evidence/vfxcore.png) | Table relationships |
-| Migration Script | [seeder_script](evidence/seeding.md) | Seeder for default records |
+| DDL Dump | [DB-DUMB](evidence/schema_dump.sql) | Structure dump from script |
+| ERD Diagram | [ERD-Tables](evidence/vfxcore.png),  [ERD-Graphs](https://dbdiagram.io/d/VFXCORE-6910345b6735e11170e64aa6) | Table relationships |
+| Seeding | [SEEDING-DOCS](evidence/seeding.md) | Seeder for default records |
 
 ---
 
@@ -129,7 +129,7 @@ NATS messaging is used for inter-service communication between VFXServer, VFXCor
 
 | Evidence Type | File / Link |
 |---------------|------------|
-| NATS Subject List | [NATS Subjects List](evidence/nats.md) |
+| NATS Subject List | [NATS-Subjects](evidence/nats.md) |
 
 ---
 
@@ -158,7 +158,7 @@ Validation rules ensure system reliability, account integrity, and risk control 
 
 | Evidence Type | File / Link | Description |
 |---------------|------------|-------------|
-| Validation Code Snippet | [validation](evidence/validation_docs.md) | Source snippet from account validation logic |
+| Validation Code Snippet | [Validation](evidence/validation_docs.md) | Source snippet from account validation logic |
 
 ---
 
@@ -198,8 +198,8 @@ HS Trader connects to external Liquidity Providers (LPs) via FIX 4.4, using the 
 
 | Evidence Type | File / Link | Description |
 |---------------|------------|-------------|
-| Config File | [config](evidence/05_LP_Config/config.md) | FIX session setup (JSON/YAML) |
-| Session Logs | [session](evidence/05_LP_Config/session.md) | Logon/Heartbeat traces |
+| Config File | [Config](evidence/05_LP_Config/config.md) | FIX session setup (JSON/YAML) |
+| Session Logs | [Session](evidence/05_LP_Config/session.md) | Logon/Heartbeat traces |
 | SSL Manager Log | [SSLManager](evidence/05_LP_Config/manager.md) | Dynamic SSL tunnel creation proof |
 
 ---
