@@ -24,7 +24,6 @@ To capture the current state of the HS Trader system (APIs, Databases, Messaging
 4. [Validation Rules](#validation-rules)
 5. [Liquidity Provider (LP) Configs](#liquidity-provider-lp-configs)
 6. [Reports](#reports)
-7. [Developer Output Format](#developer-output-format)
 
 ---
 
@@ -74,7 +73,7 @@ POST /login → POST /token → POST /refresh/token → DELETE /logout
 | Evidence Type | File / Link | Description |
 |---------------|------------|-------------|
 | Swagger Spec | https://dev.hstrader.com/swagger/index.html#/ | Full API specification (login with admin role) |
-| Gateway Config | [api-flow](evidence/api.md) | Authentication + Rate limit setup |
+| API Docs | [api-flow](evidence/api.md) | Authentication + Rate limit setup |
 
 
 ---
