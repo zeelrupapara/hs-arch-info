@@ -1,0 +1,537 @@
+Journal - 08/11/2025 10:55:46
+ID : 25100022 - From Date : 2025-08-06 - To Date : 2025-11-08
+Account Id,Date/Time,Type,Device,Ip,Description
+25100020,2025-07-09 10:25:57,req_account,web,163.53.179.29,account Vishal has been created #25100020
+25100020,2025-07-09 10:25:57,req_account,web,163.53.179.29,100000.000000 deposited into your account 
+25100020,2025-07-09 10:26:15,login,web,163.53.179.29,logged in to the system
+25100020,2025-07-09 10:27:58,logout,web,163.53.179.29,logged out from the system
+25100020,2025-07-10 05:52:24,login,web,163.53.179.29,logged in to the system
+25100020,2025-07-10 05:52:32,logout,web,163.53.179.29,logged out from the system due to multiple sessions limit reached
+25100020,2025-07-10 05:52:32,login,web,163.53.179.29,logged in to the system
+25100020,2025-07-10 05:52:36,logout,web,163.53.179.29,logged out from the system due to multiple sessions limit reached
+25100020,2025-07-10 05:52:36,login,web,163.53.179.29,logged in to the system
+25100020,2025-07-10 05:52:44,logout,web,163.53.179.29,logged out from the system due to multiple sessions limit reached
+25100020,2025-07-10 05:52:44,login,web,163.53.179.29,logged in to the system
+25100020,2025-07-10 05:52:53,logout,web,163.53.179.29,logged out from the system due to multiple sessions limit reached
+25100020,2025-07-10 05:52:53,login,web,163.53.179.29,logged in to the system
+25100020,2025-07-10 06:01:56,login,web,163.53.179.29,logged in to the system
+25100020,2025-07-10 06:02:10,req_order,web,163.53.179.29,new order has been requested type of market_order volume 0.100000 symbol #25100021
+25100020,2025-07-10 06:02:15,req_order,web,163.53.179.29,new order has been requested type of market_order volume 0.100000 symbol #25100021
+25100020,2025-07-10 06:02:19,req_order,web,163.53.179.29,new order has been requested type of market_order volume 0.100000 symbol #25100021
+25100020,2025-07-10 06:04:47,logout,web,163.53.179.29,logged out from the system
+25100020,2025-07-10 06:04:55,login,web,163.53.179.29,logged in to the system
+25100020,2025-07-10 06:04:59,req_position,web,163.53.179.29,requested to close the position #250710039
+25100020,2025-07-10 06:05:00,req_position,web,163.53.179.29,requested to close the position #250710038
+25100020,2025-07-10 06:05:01,req_position,web,163.53.179.29,requested to close the position #250710037
+25100020,2025-07-10 06:10:46,logout,web,163.53.179.29,logged out from the system
+25100020,2025-07-10 06:12:00,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-10 06:12:08,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-10 06:12:11,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-10 06:12:21,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-10 09:35:09,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-10 09:35:11,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-10 09:35:12,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-10 09:35:13,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-10 09:35:15,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-10 10:44:02,req_position,web,163.53.179.29,the dealer #25100009 has requested to close the position #250710050
+25100020,2025-07-10 10:44:03,req_position,web,163.53.179.29,the dealer #25100009 has requested to close the position #250710049
+25100020,2025-07-10 10:44:04,req_position,web,163.53.179.29,the dealer #25100009 has requested to close the position #250710048
+25100020,2025-07-10 10:44:04,req_position,web,163.53.179.29,the dealer #25100009 has requested to close the position #250710047
+25100020,2025-07-10 10:44:07,req_position,web,163.53.179.29,the dealer #25100009 has requested to close the position #250710046
+25100020,2025-07-10 10:52:59,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-10 10:52:59,req_order,api,,Risk Management System: Rule 'delay-order' intercepted BUY Market Order 0.10 lots @ 1.06700 [Symbol:25100021] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-10 10:52:59,req_order,api,,Risk Management: BUY Market Order 0.10 lots @ 1.06700 [Symbol:25100021] order processed with delay by rule 'delay-order'. Status: Order processed and ready for admin review.
+25100020,2025-07-10 12:26:14,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-10 12:26:50,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-10 12:26:55,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-11 06:21:51,login,web,163.53.179.29,logged in to the system
+25100020,2025-07-11 08:57:11,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-11 08:57:43,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-11 08:57:44,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-11 08:57:45,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-11 08:57:52,req_position,web,163.53.179.29,the dealer #25100009 has requested to close the position #250710116
+25100020,2025-07-11 08:57:53,req_position,web,163.53.179.29,the dealer #25100009 has requested to close the position #250710117
+25100020,2025-07-11 08:57:58,req_position,web,163.53.179.29,the dealer #25100009 has requested to close the position #250710118
+25100020,2025-07-11 08:58:08,req_position,web,163.53.179.29,the dealer #25100009 has requested to close the position #250710119
+25100020,2025-07-11 08:58:16,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-11 08:58:16,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-11 08:58:17,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-11 08:58:17,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-11 08:58:17,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-11 08:58:18,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-11 08:58:18,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-11 08:58:27,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 1.000000
+25100020,2025-07-11 08:58:34,req_position,web,163.53.179.29,the dealer #25100009 has requested to close the position #250710120
+25100020,2025-07-11 08:58:39,req_position,web,163.53.179.29,the dealer #25100009 has requested to close the position #250710123
+25100020,2025-07-11 10:36:42,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-11 10:37:31,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-11 10:37:36,req_position,web,163.53.179.29,the dealer #25100009 has requested to close the position #250710137
+25100020,2025-07-11 10:37:41,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-11 10:38:21,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-11 10:38:29,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-11 10:50:29,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-11 10:50:29,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-11 11:10:57,req_position,web,163.53.179.29,the dealer #25100009 has requested to close the position #250710141
+25100020,2025-07-11 11:10:58,req_position,web,163.53.179.29,the dealer #25100009 has requested to close the position #250710140
+25100020,2025-07-11 11:11:04,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-11 11:11:57,req_position,web,163.53.179.29,the dealer #25100009 has requested to close the position #250710143
+25100020,2025-07-11 11:12:07,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-11 11:12:21,req_position,web,163.53.179.29,the dealer #25100009 has requested to close the position #250710144
+25100020,2025-07-11 11:29:47,login,web,163.53.179.29,logged in to the system
+25100020,2025-07-11 11:30:55,req_order,web,163.53.179.29,new order has been requested type of market_order volume 1.100000 symbol #25100007
+25100020,2025-07-11 11:31:11,req_position,web,163.53.179.29,requested to close the position #250710156
+25100020,2025-07-11 11:32:37,req_order,web,163.53.179.29,new order has been requested type of market_order volume 50.000000 symbol #25100007
+25100020,2025-07-11 11:33:33,req_order,web,163.53.179.29,new order has been requested type of market_order volume 50.000000 symbol #25100007
+25100020,2025-07-11 11:36:05,req_order,web,163.53.179.29,new order has been requested type of market_order volume 100.000000 symbol #25100007
+25100020,2025-07-11 11:36:25,req_order,web,163.53.179.29,new order has been requested type of market_order volume 50.000000 symbol #25100007
+25100020,2025-07-11 11:36:25,req_order,api,,Risk Management System: Rule 'Test-Routing on Symbol' intercepted BUY Market Order 50.00 lots @ 1.07700 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-11 11:36:55,login,web,163.53.179.29,logged in to the system
+25100020,2025-07-11 11:37:22,req_order,web,163.53.179.29,new order has been requested type of market_order volume 50.000000 symbol #25100007
+25100020,2025-07-11 11:37:30,login,web,163.53.179.29,logged in to the system
+25100020,2025-07-11 11:37:40,req_order,web,163.53.179.29,new order has been requested type of market_order volume 50.000000 symbol #25100007
+25100020,2025-07-11 11:38:05,req_order,web,163.53.179.29,new order has been requested type of market_order volume 10.000000 symbol #25100021
+25100020,2025-07-11 11:39:45,req_order,api,,Risk Management: BUY Market Order 50.00 lots @ 1.07700 [Symbol:25100007] order processed with delay by rule 'Test-Routing on Symbol'. Status: Order processed and ready for admin review.
+25100020,2025-07-11 11:40:06,req_order,api,,Risk Management System: Rule 'Test-Routing on Symbol' intercepted BUY Market Order 50.00 lots @ 1.08400 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-11 11:40:26,req_order,api,,Risk Management: BUY Market Order 50.00 lots @ 1.08400 [Symbol:25100007] order processed with delay by rule 'Test-Routing on Symbol'. Status: Order processed and ready for admin review.
+25100020,2025-07-11 11:40:26,req_order,api,,Risk Management System: Rule 'Test-Routing on Symbol' intercepted BUY Market Order 50.00 lots @ 1.06700 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-11 11:40:46,req_order,api,,Risk Management: BUY Market Order 50.00 lots @ 1.06700 [Symbol:25100007] order processed with delay by rule 'Test-Routing on Symbol'. Status: Order processed and ready for admin review.
+25100020,2025-07-11 11:42:06,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-11 11:42:14,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-11 11:42:25,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 11.000000
+25100020,2025-07-11 11:42:25,req_order,api,,Risk Management System: Rule 'Test-Routing on Symbol' intercepted BUY Market Order 11.00 lots @ 1.06703 [Symbol:25100008] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-11 11:42:40,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 11.000000
+25100020,2025-07-11 11:42:45,req_order,api,,Risk Management: BUY Market Order 11.00 lots @ 1.06703 [Symbol:25100008] order processed with delay by rule 'Test-Routing on Symbol'. Status: Order processed and ready for admin review.
+25100020,2025-07-11 11:42:45,req_order,api,,Risk Management System: Rule 'Test-Routing on Symbol' intercepted BUY Market Order 11.00 lots @ 1.05200 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-11 11:43:05,req_order,api,,Risk Management: BUY Market Order 11.00 lots @ 1.05200 [Symbol:25100007] order processed with delay by rule 'Test-Routing on Symbol'. Status: Order processed and ready for admin review.
+25100020,2025-07-11 11:44:16,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 12.000000
+25100020,2025-07-11 11:44:16,req_order,api,,Risk Management System: Rule 'Test-Routing on Symbol' intercepted BUY Market Order 12.00 lots @ 1.09100 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-11 11:44:36,req_order,api,,Risk Management: BUY Market Order 12.00 lots @ 1.09100 [Symbol:25100007] order processed with delay by rule 'Test-Routing on Symbol'. Status: Order processed and ready for admin review.
+25100020,2025-07-11 12:02:30,req_order,web,163.53.179.29,new order has been requested type of market_order volume 10.000000 symbol #25100007
+25100020,2025-07-11 12:02:53,req_order,web,163.53.179.29,new order has been requested type of market_order volume 20.000000 symbol #25100007
+25100020,2025-07-11 12:02:53,req_order,api,,Risk Management System: Rule 'Test-Routing on Symbol' intercepted BUY Market Order 20.00 lots @ 1.05300 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-11 12:03:12,req_order,web,163.53.179.29,new order has been requested type of market_order volume 50.000000 symbol #25100007
+25100020,2025-07-11 12:03:13,req_order,api,,Risk Management: BUY Market Order 20.00 lots @ 1.05300 [Symbol:25100007] order processed with delay by rule 'Test-Routing on Symbol'. Status: Order processed and ready for admin review.
+25100020,2025-07-11 12:03:13,req_order,api,,Risk Management System: Rule 'Test-Routing on Symbol' intercepted BUY Market Order 50.00 lots @ 1.05600 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-11 12:03:33,req_order,api,,Risk Management: BUY Market Order 50.00 lots @ 1.05600 [Symbol:25100007] order processed with delay by rule 'Test-Routing on Symbol'. Status: Order processed and ready for admin review.
+25100020,2025-07-11 12:04:26,req_order,web,163.53.179.29,new order has been requested type of market_order volume 50.000000 symbol #25100007
+25100020,2025-07-11 12:05:55,req_order,api,,Risk Management System: Rule 'Test-Routing on Symbol' intercepted BUY Market Order 50.00 lots @ 1.08900 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-11 12:06:15,req_order,api,,Risk Management: BUY Market Order 50.00 lots @ 1.08900 [Symbol:25100007] order processed with delay by rule 'Test-Routing on Symbol'. Status: Order processed and ready for admin review.
+25100020,2025-07-11 12:13:51,req_order,web,163.53.179.29,new order has been requested type of market_order volume 10.000000 symbol #25100007
+25100020,2025-07-11 12:14:23,req_order,web,163.53.179.29,new order has been requested type of market_order volume 0.100000 symbol #25100007
+25100020,2025-07-11 12:14:29,req_order,web,163.53.179.29,new order has been requested type of market_order volume 0.100000 symbol #25100007
+25100020,2025-07-11 12:14:45,req_order,web,163.53.179.29,new order has been requested type of market_order volume 0.100000 symbol #25100011
+25100020,2025-07-11 12:15:12,req_order,web,163.53.179.29,new order has been requested type of market_order volume 10.000000 symbol #25100011
+25100020,2025-07-11 12:15:36,req_order,web,163.53.179.29,new order has been requested type of market_order volume 50.000000 symbol #25100011
+25100020,2025-07-11 12:15:36,req_order,api,,Risk Management System: Rule 'Test-Routing on Symbol' intercepted BUY Market Order 50.00 lots @ 1.06900 [Symbol:25100011] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-11 12:15:56,req_order,api,,Risk Management: BUY Market Order 50.00 lots @ 1.06900 [Symbol:25100011] order processed with delay by rule 'Test-Routing on Symbol'. Status: Order processed and ready for admin review.
+25100020,2025-07-11 12:16:03,req_order,web,163.53.179.29,new order has been requested type of market_order volume 50.000000 symbol #25100011
+25100020,2025-07-11 12:16:03,req_order,api,,Risk Management System: Rule 'Test-Routing on Symbol' intercepted BUY Market Order 50.00 lots @ 1.06400 [Symbol:25100011] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-11 12:16:23,req_order,api,,Risk Management: BUY Market Order 50.00 lots @ 1.06400 [Symbol:25100011] order processed with delay by rule 'Test-Routing on Symbol'. Status: Order processed and ready for admin review.
+25100020,2025-07-11 12:17:04,req_order,web,163.53.179.29,new order has been requested type of market_order volume 50.000000 symbol #25100011
+25100020,2025-07-11 12:17:04,req_order,api,,Risk Management System: Rule 'Test-Routing on Symbol' intercepted BUY Market Order 50.00 lots @ 1.07300 [Symbol:25100011] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-11 12:17:24,req_order,api,,Risk Management: BUY Market Order 50.00 lots @ 1.07300 [Symbol:25100011] order processed with delay by rule 'Test-Routing on Symbol'. Status: Order processed and ready for admin review.
+25100020,2025-07-11 12:18:11,req_order,web,163.53.179.29,new order has been requested type of market_order volume 100.000000 symbol #25100011
+25100020,2025-07-11 12:18:11,req_order,api,,Risk Management System: Rule 'Test-Routing on Symbol' intercepted BUY Market Order 100.00 lots @ 1.07400 [Symbol:25100011] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-11 12:18:31,req_order,api,,Risk Management: BUY Market Order 100.00 lots @ 1.07400 [Symbol:25100011] order processed with delay by rule 'Test-Routing on Symbol'. Status: Order processed and ready for admin review.
+25100020,2025-07-11 12:18:51,req_order,web,163.53.179.29,new order has been requested type of market_order volume 70.000000 symbol #25100011
+25100020,2025-07-11 12:18:51,req_order,api,,Risk Management System: Rule 'Test-Routing on Symbol' intercepted BUY Market Order 70.00 lots @ 1.06900 [Symbol:25100011] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-11 12:19:11,req_order,api,,Risk Management: BUY Market Order 70.00 lots @ 1.06900 [Symbol:25100011] order processed with delay by rule 'Test-Routing on Symbol'. Status: Order processed and ready for admin review.
+25100020,2025-07-11 12:19:59,req_order,web,163.53.179.29,new order has been requested type of market_order volume 72.000000 symbol #25100011
+25100020,2025-07-11 12:20:58,req_order,api,,Risk Management System: Rule 'Test-Routing on Symbol' intercepted BUY Market Order 72.00 lots @ 1.09600 [Symbol:25100011] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-11 12:21:18,req_order,api,,Risk Management: BUY Market Order 72.00 lots @ 1.09600 [Symbol:25100011] order processed with delay by rule 'Test-Routing on Symbol'. Status: Order processed and ready for admin review.
+25100020,2025-07-11 12:21:49,req_order,web,163.53.179.29,new order has been requested type of market_order volume 40.000000 symbol #25100011
+25100020,2025-07-11 12:21:49,req_order,api,,Risk Management System: Rule 'Test-Routing on Symbol' intercepted BUY Market Order 40.00 lots @ 1.08000 [Symbol:25100011] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-11 12:22:09,req_order,api,,Risk Management: BUY Market Order 40.00 lots @ 1.08000 [Symbol:25100011] order processed with delay by rule 'Test-Routing on Symbol'. Status: Order processed and ready for admin review.
+25100020,2025-07-11 12:22:38,req_order,web,163.53.179.29,new order has been requested type of market_order volume 0.100000 symbol #25100007
+25100020,2025-07-11 12:23:09,req_order,web,163.53.179.29,new order has been requested type of market_order volume 10.000000 symbol #25100007
+25100020,2025-07-12 04:24:43,login,web,163.53.179.29,logged in to the system
+25100020,2025-07-12 04:34:11,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-12 04:35:25,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 12.000000
+25100020,2025-07-12 04:35:46,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 11.000000
+25100020,2025-07-12 06:56:00,login,web,163.53.179.29,logged in to the system
+25100020,2025-07-12 07:01:46,req_order,web,163.53.179.29,new order has been requested type of market_order volume 0.100000 symbol #25100021
+25100020,2025-07-12 07:01:55,req_order,web,163.53.179.29,new order has been requested type of market_order volume 0.100000 symbol #25100021
+25100020,2025-07-12 07:01:56,req_order,web,163.53.179.29,new order has been requested type of market_order volume 0.100000 symbol #25100021
+25100020,2025-07-12 07:01:56,req_order,web,163.53.179.29,new order has been requested type of market_order volume 0.100000 symbol #25100021
+25100020,2025-07-12 07:01:56,req_order,web,163.53.179.29,new order has been requested type of market_order volume 0.100000 symbol #25100021
+25100020,2025-07-12 07:02:07,req_order,web,163.53.179.29,new order has been requested type of market_order volume 100.000000 symbol #25100021
+25100020,2025-07-12 11:35:31,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 100.000000
+25100020,2025-07-12 11:35:31,req_order,api,,Risk Management System: Rule 'Test-Routing on Symbol' intercepted BUY Market Order 100.00 lots @ 1.08900 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-12 11:35:38,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-12 11:35:45,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-12 11:35:51,req_order,api,,Risk Management: BUY Market Order 100.00 lots @ 1.08900 [Symbol:25100007] order processed with delay by rule 'Test-Routing on Symbol'. Status: Order processed and ready for admin review.
+25100020,2025-07-12 11:36:08,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 11.000000
+25100020,2025-07-12 11:36:08,req_order,api,,Risk Management System: Rule 'Test-Routing on Symbol' intercepted BUY Market Order 11.00 lots @ 1.07203 [Symbol:25100008] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-12 11:36:28,req_order,api,,Risk Management: BUY Market Order 11.00 lots @ 1.07203 [Symbol:25100008] order processed with delay by rule 'Test-Routing on Symbol'. Status: Order processed and ready for admin review.
+25100020,2025-07-12 11:37:09,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 12.000000
+25100020,2025-07-12 11:37:09,req_order,api,,Risk Management System: Rule 'Test-Routing on Symbol' intercepted BUY Market Order 12.00 lots @ 1.05503 [Symbol:25100008] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-12 11:37:29,req_order,api,,Risk Management: BUY Market Order 12.00 lots @ 1.05503 [Symbol:25100008] order processed with delay by rule 'Test-Routing on Symbol'. Status: Order processed and ready for admin review.
+25100020,2025-07-12 11:38:25,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 100.000000
+25100020,2025-07-12 11:38:25,req_order,api,,Risk Management System: Rule 'Test-Routing on Symbol' intercepted BUY Market Order 100.00 lots @ 1.08603 [Symbol:25100008] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-12 11:38:45,req_order,api,,Risk Management: BUY Market Order 100.00 lots @ 1.08603 [Symbol:25100008] order processed with delay by rule 'Test-Routing on Symbol'. Status: Order processed and ready for admin review.
+25100020,2025-07-12 11:46:57,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-12 11:47:02,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 20.000000
+25100020,2025-07-12 11:47:02,req_order,api,,Risk Management System: Rule 'Test-Routing on Symbol' intercepted BUY Market Order 20.00 lots @ 1.08600 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-12 11:47:22,req_order,api,,Risk Management: BUY Market Order 20.00 lots @ 1.08600 [Symbol:25100007] order processed with delay by rule 'Test-Routing on Symbol'. Status: Order processed and ready for admin review.
+25100020,2025-07-14 04:14:10,login,web,163.53.179.29,logged in to the system
+25100020,2025-07-14 12:38:52,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-14 12:39:35,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-14 12:39:55,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-14 12:40:05,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-14 12:41:19,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-14 12:41:22,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-14 12:41:44,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-14 12:41:44,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-14 12:41:44,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-14 12:41:44,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-14 12:41:45,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-14 12:41:45,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-14 12:41:45,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-14 12:41:45,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-14 12:41:45,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-14 12:41:46,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-14 12:41:46,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-14 12:41:46,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-14 12:41:46,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-14 12:41:46,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-14 12:54:01,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-15 05:15:32,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-15 05:24:44,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 22.000000
+25100020,2025-07-15 05:27:38,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 30.000000
+25100020,2025-07-15 05:29:48,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-15 05:30:12,req_order,web,163.53.179.29,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-15 05:56:06,login,web,163.53.179.29,logged in to the system
+25100020,2025-07-15 05:56:14,req_order,web,163.53.179.29,new order has been requested type of market_order volume 0.100000 symbol #25100007
+25100020,2025-07-15 05:56:49,req_order,web,163.53.179.29,new order has been requested type of market_order volume 20.000000 symbol #25100007
+25100020,2025-07-15 05:57:22,req_order,web,163.53.179.29,new order has been requested type of market_order volume 20.000000 symbol #25100007
+25100020,2025-07-15 05:57:55,req_order,web,163.53.179.29,new order has been requested type of market_order volume 50.000000 symbol #25100007
+25100020,2025-07-15 05:58:20,req_order,web,163.53.179.29,new order has been requested type of market_order volume 100.000000 symbol #25100007
+25100020,2025-07-15 05:58:44,req_order,web,163.53.179.29,new order has been requested type of market_order volume 100.000000 symbol #25100007
+25100020,2025-07-15 05:59:08,req_order,web,163.53.179.29,new order has been requested type of market_order volume 100.000000 symbol #25100007
+25100020,2025-07-15 05:59:36,req_order,web,163.53.179.29,new order has been requested type of market_order volume 100.000000 symbol #25100007
+25100020,2025-07-15 05:59:53,req_order,web,163.53.179.29,new order has been requested type of market_order volume 100.000000 symbol #25100007
+25100020,2025-07-15 06:00:41,req_order,web,163.53.179.29,new order has been requested type of market_order volume 0.100000 symbol #25100007
+25100020,2025-07-15 06:01:04,req_order,web,163.53.179.29,new order has been requested type of market_order volume 50.000000 symbol #25100007
+25100020,2025-07-15 06:01:33,req_order,web,163.53.179.29,new order has been requested type of market_order volume 20.000000 symbol #25100007
+25100020,2025-07-15 06:02:03,req_order,web,163.53.179.29,new order has been requested type of market_order volume 100.000000 symbol #25100007
+25100020,2025-07-15 06:02:43,req_order,web,163.53.179.29,new order has been requested type of market_order volume 45.000000 symbol #25100007
+25100020,2025-07-15 06:03:04,req_order,web,163.53.179.29,new order has been requested type of market_order volume 0.100000 symbol #25100007
+25100020,2025-07-15 06:03:23,req_order,web,163.53.179.29,new order has been requested type of market_order volume 45.000000 symbol #25100007
+25100020,2025-07-15 06:03:43,req_order,web,163.53.179.29,new order has been requested type of market_order volume 45.000000 symbol #25100007
+25100020,2025-07-15 06:17:31,req_order,web,163.53.179.29,new order has been requested type of market_order volume 20.000000 symbol #25100007
+25100020,2025-07-15 08:16:14,req_order,web,163.53.179.29,dealer #25100001 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-15 08:16:14,req_order,api,,Risk Management System: Rule 'Group Wise Dalay 3000 millis' intercepted BUY Market Order 0.10 lots @ 1.08000 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-15 08:16:19,req_order,api,,Risk Management: BUY Market Order 0.10 lots @ 1.08000 [Symbol:25100007] order processed with delay by rule 'Group Wise Dalay 3000 millis'. Status: Order processed and ready for admin review.
+25100020,2025-07-15 08:16:28,req_order,web,163.53.179.29,dealer #25100001 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-15 08:16:28,req_order,api,,Risk Management System: Rule 'Group Wise Dalay 3000 millis' intercepted BUY Market Order 0.10 lots @ 1.05300 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-15 08:16:33,req_order,api,,Risk Management: BUY Market Order 0.10 lots @ 1.05300 [Symbol:25100007] order processed with delay by rule 'Group Wise Dalay 3000 millis'. Status: Order processed and ready for admin review.
+25100020,2025-07-15 10:00:53,login,web,163.53.179.29,logged in to the system
+25100020,2025-07-15 11:15:40,login,web,163.53.179.29,logged in to the system
+25100020,2025-07-15 11:28:37,req_order,web,163.53.179.29,dealer #25100001 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-15 11:28:37,req_order,api,,Risk Management System: Rule 'Group Wise Delay 3000 millis' intercepted BUY Market Order 0.10 lots @ 1.09000 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-15 11:28:40,req_order,web,163.53.179.29,dealer #25100001 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-15 11:28:42,req_order,api,,Risk Management: BUY Market Order 0.10 lots @ 1.09000 [Symbol:25100007] order processed with delay by rule 'Group Wise Delay 3000 millis'. Status: Order processed and ready for admin review.
+25100020,2025-07-15 11:28:42,req_order,api,,Risk Management System: Rule 'Group Wise Delay 3000 millis' intercepted SELL Market Order 0.10 lots @ 1.09300 [Symbol:25100008] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-15 11:28:47,req_order,api,,Risk Management: SELL Market Order 0.10 lots @ 1.09300 [Symbol:25100008] order processed with delay by rule 'Group Wise Delay 3000 millis'. Status: Order processed and ready for admin review.
+25100020,2025-07-15 12:44:45,login,web,163.53.179.29,logged in to the system
+25100020,2025-07-16 04:11:07,login,web,163.53.179.29,logged in to the system
+25100020,2025-07-16 09:30:35,login,web,163.53.179.29,logged in to the system
+25100020,2025-07-16 09:33:47,req_order,web,163.53.179.29,new order has been requested type of market_order volume 20.000000 symbol #25100007
+25100020,2025-07-16 09:33:47,req_order,api,,Risk Management System: Rule 'Group Wise Delay 3000 millis' intercepted BUY Market Order 20.00 lots @ 1.07600 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-16 09:33:52,req_order,api,,Risk Management: BUY Market Order 20.00 lots @ 1.07600 [Symbol:25100007] order processed with delay by rule 'Group Wise Delay 3000 millis'. Status: Order processed and ready for admin review.
+25100020,2025-07-16 09:53:24,logout,web,163.53.179.29,logged out from the system
+25100020,2025-07-16 10:40:18,login,web,163.53.179.29,logged in to the system
+25100020,2025-07-16 10:40:45,req_order,web,163.53.179.29,new order has been requested type of market_order volume 0.100000 symbol #25100007
+25100020,2025-07-16 10:40:45,req_order,api,,Risk Management System: Rule 'Group Wise Delay 3000 millis' intercepted BUY Market Order 0.10 lots @ 1.09600 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-16 10:40:50,req_order,api,,Risk Management: BUY Market Order 0.10 lots @ 1.09600 [Symbol:25100007] order processed with delay by rule 'Group Wise Delay 3000 millis'. Status: Order processed and ready for admin review.
+25100020,2025-07-18 11:42:43,req_account,web,150.107.241.128,account data has been updated
+25100020,2025-07-18 11:42:54,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 11:42:54,req_order,api,,Risk Management System: Rule 'Group Wise Delay 3000 millis' intercepted BUY Market Order 0.10 lots @ 1.06400 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-18 11:42:59,req_order,api,,Risk Management: BUY Market Order 0.10 lots @ 1.06400 [Symbol:25100007] order processed with delay by rule 'Group Wise Delay 3000 millis'. Status: Order processed and ready for admin review.
+25100020,2025-07-18 12:04:57,req_position,web,150.107.241.128,the dealer #25100022 has requested to close the position #250710400
+25100020,2025-07-18 12:06:04,req_account,web,150.107.241.128,account data has been updated
+25100020,2025-07-18 12:06:18,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:06:18,req_order,api,,Risk Management System: Rule 'Group Wise Delay 3000 millis' intercepted BUY Market Order 0.10 lots @ 1.08803 [Symbol:25100008] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-18 12:06:23,req_order,api,,Risk Management: BUY Market Order 0.10 lots @ 1.08803 [Symbol:25100008] order processed with delay by rule 'Group Wise Delay 3000 millis'. Status: Order processed and ready for admin review.
+25100020,2025-07-18 12:06:30,req_position,web,150.107.241.128,the dealer #25100022 has requested to close the position #250710401
+25100020,2025-07-18 12:06:57,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:06:57,req_order,api,,Risk Management System: Rule 'Group Wise Delay 3000 millis' intercepted BUY Market Order 0.10 lots @ 1.08603 [Symbol:25100008] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-18 12:07:02,req_order,api,,Risk Management: BUY Market Order 0.10 lots @ 1.08603 [Symbol:25100008] order processed with delay by rule 'Group Wise Delay 3000 millis'. Status: Order processed and ready for admin review.
+25100020,2025-07-18 12:07:10,req_position,web,150.107.241.128,the dealer #25100022 has requested to close the position #250710402
+25100020,2025-07-18 12:07:19,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 100.000000
+25100020,2025-07-18 12:07:19,req_order,api,,Risk Management System: Rule 'Group Wise Delay 3000 millis' intercepted BUY Market Order 100.00 lots @ 1.07900 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-18 12:07:24,req_order,api,,Risk Management: BUY Market Order 100.00 lots @ 1.07900 [Symbol:25100007] order processed with delay by rule 'Group Wise Delay 3000 millis'. Status: Order processed and ready for admin review.
+25100020,2025-07-18 12:08:15,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 10.000000
+25100020,2025-07-18 12:08:15,req_order,api,,Risk Management System: Rule 'Group Wise Delay 3000 millis' intercepted BUY Market Order 10.00 lots @ 1.07600 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-18 12:08:20,req_order,api,,Risk Management: BUY Market Order 10.00 lots @ 1.07600 [Symbol:25100007] order processed with delay by rule 'Group Wise Delay 3000 millis'. Status: Order processed and ready for admin review.
+25100020,2025-07-18 12:09:08,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 1.000000
+25100020,2025-07-18 12:09:08,req_order,api,,Risk Management System: Rule 'Group Wise Delay 3000 millis' intercepted BUY Market Order 1.00 lots @ 1.05100 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-18 12:09:13,req_order,api,,Risk Management: BUY Market Order 1.00 lots @ 1.05100 [Symbol:25100007] order processed with delay by rule 'Group Wise Delay 3000 millis'. Status: Order processed and ready for admin review.
+25100020,2025-07-18 12:09:44,req_account,web,150.107.241.128,account data has been updated
+25100020,2025-07-18 12:09:54,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 1.000000
+25100020,2025-07-18 12:09:54,req_order,api,,Risk Management System: Rule 'Group Wise Delay 3000 millis' intercepted BUY Market Order 1.00 lots @ 1.05300 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-18 12:09:59,req_order,api,,Risk Management: BUY Market Order 1.00 lots @ 1.05300 [Symbol:25100007] order processed with delay by rule 'Group Wise Delay 3000 millis'. Status: Order processed and ready for admin review.
+25100020,2025-07-18 12:41:15,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:41:15,req_order,api,,Risk Management System: Rule 'Group Wise Delay 3000 millis' intercepted BUY Market Order 0.10 lots @ 1.08100 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-18 12:41:20,req_order,api,,Risk Management: BUY Market Order 0.10 lots @ 1.08100 [Symbol:25100007] order processed with delay by rule 'Group Wise Delay 3000 millis'. Status: Order processed and ready for admin review.
+25100020,2025-07-18 12:41:55,req_account,web,150.107.241.128,account data has been updated
+25100020,2025-07-18 12:42:10,req_account,web,150.107.241.128,account data has been updated
+25100020,2025-07-18 12:42:17,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:42:17,req_order,api,,Risk Management System: Rule 'Group Wise Delay 3000 millis' intercepted BUY Market Order 0.10 lots @ 1.08000 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-18 12:42:22,req_order,api,,Risk Management: BUY Market Order 0.10 lots @ 1.08000 [Symbol:25100007] order processed with delay by rule 'Group Wise Delay 3000 millis'. Status: Order processed and ready for admin review.
+25100020,2025-07-18 12:52:35,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:52:35,req_order,api,,Risk Management System: Rule 'Group Wise Delay 3000 millis' intercepted BUY Market Order 0.10 lots @ 1.05800 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-18 12:52:35,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:52:36,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:52:36,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:52:36,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:52:36,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:52:36,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:52:36,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:52:37,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:52:37,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:52:37,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:52:37,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:52:37,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:52:40,req_order,api,,Risk Management: BUY Market Order 0.10 lots @ 1.05800 [Symbol:25100007] order processed with delay by rule 'Group Wise Delay 3000 millis'. Status: Order processed and ready for admin review.
+25100020,2025-07-18 12:52:40,req_order,api,,Risk Management System: Rule 'Group Wise Delay 3000 millis' intercepted BUY Market Order 0.10 lots @ 1.05800 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-18 12:52:44,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:52:44,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:52:44,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:52:45,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:52:45,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:52:45,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:52:45,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:52:45,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:52:45,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:52:45,req_order,api,,Risk Management: BUY Market Order 0.10 lots @ 1.05800 [Symbol:25100007] order processed with delay by rule 'Group Wise Delay 3000 millis'. Status: Order processed and ready for admin review.
+25100020,2025-07-18 12:52:45,req_order,api,,Risk Management System: Rule 'Group Wise Delay 3000 millis' intercepted BUY Market Order 0.10 lots @ 1.05800 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-18 12:52:45,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:52:46,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:52:46,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:52:46,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:52:46,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:52:50,req_order,api,,Risk Management: BUY Market Order 0.10 lots @ 1.05800 [Symbol:25100007] order processed with delay by rule 'Group Wise Delay 3000 millis'. Status: Order processed and ready for admin review.
+25100020,2025-07-18 12:52:50,req_order,api,,Risk Management System: Rule 'Group Wise Delay 3000 millis' intercepted BUY Market Order 0.10 lots @ 1.05800 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-18 12:52:55,req_order,api,,Risk Management: BUY Market Order 0.10 lots @ 1.05800 [Symbol:25100007] order processed with delay by rule 'Group Wise Delay 3000 millis'. Status: Order processed and ready for admin review.
+25100020,2025-07-18 12:52:55,req_order,api,,Risk Management System: Rule 'Group Wise Delay 3000 millis' intercepted BUY Market Order 0.10 lots @ 1.05800 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-18 12:53:00,req_order,api,,Risk Management: BUY Market Order 0.10 lots @ 1.05800 [Symbol:25100007] order processed with delay by rule 'Group Wise Delay 3000 millis'. Status: Order processed and ready for admin review.
+25100020,2025-07-18 12:53:00,req_order,api,,Risk Management System: Rule 'Group Wise Delay 3000 millis' intercepted BUY Market Order 0.10 lots @ 1.05800 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-18 12:53:05,req_order,api,,Risk Management: BUY Market Order 0.10 lots @ 1.05800 [Symbol:25100007] order processed with delay by rule 'Group Wise Delay 3000 millis'. Status: Order processed and ready for admin review.
+25100020,2025-07-18 12:53:05,req_order,api,,Risk Management System: Rule 'Group Wise Delay 3000 millis' intercepted BUY Market Order 0.10 lots @ 1.05800 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-18 12:53:10,req_order,api,,Risk Management: BUY Market Order 0.10 lots @ 1.05800 [Symbol:25100007] order processed with delay by rule 'Group Wise Delay 3000 millis'. Status: Order processed and ready for admin review.
+25100020,2025-07-18 12:53:10,req_order,api,,Risk Management System: Rule 'Group Wise Delay 3000 millis' intercepted BUY Market Order 0.10 lots @ 1.05800 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-18 12:53:15,req_order,api,,Risk Management: BUY Market Order 0.10 lots @ 1.05800 [Symbol:25100007] order processed with delay by rule 'Group Wise Delay 3000 millis'. Status: Order processed and ready for admin review.
+25100020,2025-07-18 12:53:15,req_order,api,,Risk Management System: Rule 'Group Wise Delay 3000 millis' intercepted BUY Market Order 0.10 lots @ 1.05800 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-18 12:53:20,req_order,api,,Risk Management: BUY Market Order 0.10 lots @ 1.05800 [Symbol:25100007] order processed with delay by rule 'Group Wise Delay 3000 millis'. Status: Order processed and ready for admin review.
+25100020,2025-07-18 12:53:21,req_order,api,,Risk Management System: Rule 'Group Wise Delay 3000 millis' intercepted BUY Market Order 0.10 lots @ 1.05800 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-18 12:53:26,req_order,api,,Risk Management: BUY Market Order 0.10 lots @ 1.05800 [Symbol:25100007] order processed with delay by rule 'Group Wise Delay 3000 millis'. Status: Order processed and ready for admin review.
+25100020,2025-07-18 12:53:26,req_order,api,,Risk Management System: Rule 'Group Wise Delay 3000 millis' intercepted BUY Market Order 0.10 lots @ 1.05800 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-18 12:53:31,req_order,api,,Risk Management: BUY Market Order 0.10 lots @ 1.05800 [Symbol:25100007] order processed with delay by rule 'Group Wise Delay 3000 millis'. Status: Order processed and ready for admin review.
+25100020,2025-07-18 12:53:31,req_order,api,,Risk Management System: Rule 'Group Wise Delay 3000 millis' intercepted BUY Market Order 0.10 lots @ 1.05800 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-18 12:53:36,req_order,api,,Risk Management: BUY Market Order 0.10 lots @ 1.05800 [Symbol:25100007] order processed with delay by rule 'Group Wise Delay 3000 millis'. Status: Order processed and ready for admin review.
+25100020,2025-07-18 12:53:36,req_order,api,,Risk Management System: Rule 'Group Wise Delay 3000 millis' intercepted BUY Market Order 0.10 lots @ 1.05800 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-18 12:53:41,req_order,api,,Risk Management: BUY Market Order 0.10 lots @ 1.05800 [Symbol:25100007] order processed with delay by rule 'Group Wise Delay 3000 millis'. Status: Order processed and ready for admin review.
+25100020,2025-07-18 12:53:41,req_order,api,,Risk Management System: Rule 'Group Wise Delay 3000 millis' intercepted BUY Market Order 0.10 lots @ 1.05600 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-18 12:53:46,req_order,api,,Risk Management: BUY Market Order 0.10 lots @ 1.05600 [Symbol:25100007] order processed with delay by rule 'Group Wise Delay 3000 millis'. Status: Order processed and ready for admin review.
+25100020,2025-07-18 12:53:46,req_order,api,,Risk Management System: Rule 'Group Wise Delay 3000 millis' intercepted BUY Market Order 0.10 lots @ 1.05600 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-18 12:53:51,req_order,api,,Risk Management: BUY Market Order 0.10 lots @ 1.05600 [Symbol:25100007] order processed with delay by rule 'Group Wise Delay 3000 millis'. Status: Order processed and ready for admin review.
+25100020,2025-07-18 12:53:51,req_order,api,,Risk Management System: Rule 'Group Wise Delay 3000 millis' intercepted BUY Market Order 0.10 lots @ 1.05600 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-18 12:53:56,req_order,api,,Risk Management: BUY Market Order 0.10 lots @ 1.05600 [Symbol:25100007] order processed with delay by rule 'Group Wise Delay 3000 millis'. Status: Order processed and ready for admin review.
+25100020,2025-07-18 12:53:56,req_order,api,,Risk Management System: Rule 'Group Wise Delay 3000 millis' intercepted BUY Market Order 0.10 lots @ 1.05600 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-18 12:54:01,req_order,api,,Risk Management: BUY Market Order 0.10 lots @ 1.05600 [Symbol:25100007] order processed with delay by rule 'Group Wise Delay 3000 millis'. Status: Order processed and ready for admin review.
+25100020,2025-07-18 12:54:01,req_order,api,,Risk Management System: Rule 'Group Wise Delay 3000 millis' intercepted BUY Market Order 0.10 lots @ 1.05600 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-18 12:54:06,req_order,api,,Risk Management: BUY Market Order 0.10 lots @ 1.05600 [Symbol:25100007] order processed with delay by rule 'Group Wise Delay 3000 millis'. Status: Order processed and ready for admin review.
+25100020,2025-07-18 12:54:06,req_order,api,,Risk Management System: Rule 'Group Wise Delay 3000 millis' intercepted BUY Market Order 0.10 lots @ 1.05600 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-18 12:54:11,req_order,api,,Risk Management: BUY Market Order 0.10 lots @ 1.05600 [Symbol:25100007] order processed with delay by rule 'Group Wise Delay 3000 millis'. Status: Order processed and ready for admin review.
+25100020,2025-07-18 12:54:11,req_order,api,,Risk Management System: Rule 'Group Wise Delay 3000 millis' intercepted BUY Market Order 0.10 lots @ 1.07800 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-18 12:54:16,req_order,api,,Risk Management: BUY Market Order 0.10 lots @ 1.07800 [Symbol:25100007] order processed with delay by rule 'Group Wise Delay 3000 millis'. Status: Order processed and ready for admin review.
+25100020,2025-07-18 12:54:16,req_order,api,,Risk Management System: Rule 'Group Wise Delay 3000 millis' intercepted BUY Market Order 0.10 lots @ 1.07800 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-18 12:54:21,req_order,api,,Risk Management: BUY Market Order 0.10 lots @ 1.07800 [Symbol:25100007] order processed with delay by rule 'Group Wise Delay 3000 millis'. Status: Order processed and ready for admin review.
+25100020,2025-07-18 12:54:21,req_order,api,,Risk Management System: Rule 'Group Wise Delay 3000 millis' intercepted BUY Market Order 0.10 lots @ 1.07800 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-18 12:54:26,req_order,api,,Risk Management: BUY Market Order 0.10 lots @ 1.07800 [Symbol:25100007] order processed with delay by rule 'Group Wise Delay 3000 millis'. Status: Order processed and ready for admin review.
+25100020,2025-07-18 12:54:26,req_order,api,,Risk Management System: Rule 'Group Wise Delay 3000 millis' intercepted BUY Market Order 0.10 lots @ 1.07800 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-18 12:54:31,req_order,api,,Risk Management: BUY Market Order 0.10 lots @ 1.07800 [Symbol:25100007] order processed with delay by rule 'Group Wise Delay 3000 millis'. Status: Order processed and ready for admin review.
+25100020,2025-07-18 12:54:31,req_order,api,,Risk Management System: Rule 'Group Wise Delay 3000 millis' intercepted BUY Market Order 0.10 lots @ 1.07800 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-18 12:54:36,req_order,api,,Risk Management: BUY Market Order 0.10 lots @ 1.07800 [Symbol:25100007] order processed with delay by rule 'Group Wise Delay 3000 millis'. Status: Order processed and ready for admin review.
+25100020,2025-07-18 12:54:36,req_order,api,,Risk Management System: Rule 'Group Wise Delay 3000 millis' intercepted BUY Market Order 0.10 lots @ 1.07800 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-18 12:54:41,req_order,api,,Risk Management: BUY Market Order 0.10 lots @ 1.07800 [Symbol:25100007] order processed with delay by rule 'Group Wise Delay 3000 millis'. Status: Order processed and ready for admin review.
+25100020,2025-07-18 12:54:41,req_order,api,,Risk Management System: Rule 'Group Wise Delay 3000 millis' intercepted BUY Market Order 0.10 lots @ 1.07800 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-18 12:54:46,req_order,api,,Risk Management: BUY Market Order 0.10 lots @ 1.07800 [Symbol:25100007] order processed with delay by rule 'Group Wise Delay 3000 millis'. Status: Order processed and ready for admin review.
+25100020,2025-07-18 12:54:46,req_order,api,,Risk Management System: Rule 'Group Wise Delay 3000 millis' intercepted BUY Market Order 0.10 lots @ 1.07800 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-18 12:54:51,req_order,api,,Risk Management: BUY Market Order 0.10 lots @ 1.07800 [Symbol:25100007] order processed with delay by rule 'Group Wise Delay 3000 millis'. Status: Order processed and ready for admin review.
+25100020,2025-07-18 12:56:55,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:56:55,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:56:55,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:56:55,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:56:55,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:56:55,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:56:56,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:56:56,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:56:56,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:56:56,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:56:56,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:56:56,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:56:57,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:56:57,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:56:57,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:56:57,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:56:58,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:56:58,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:56:58,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:56:58,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:56:58,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:56:58,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:56:59,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:56:59,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:56:59,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:56:59,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:56:59,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:56:59,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:57:00,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:57:00,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:57:00,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:57:00,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:57:00,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:57:00,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-18 12:57:24,req_order,web,150.107.241.128,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-21 12:03:17,req_order,web,103.251.19.141,dealer #25100001 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-21 12:03:17,req_order,api,,Risk Management System: Rule 'Reject Rule Testing' intercepted BUY Market Order 0.10 lots @ 1.05400 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-21 12:03:17,req_order,api,,Risk Management: Order #250710969 (BUY Market Order 0.10 lots @ 1.05400 [Symbol:25100007]) REJECTED by rule 'Reject Rule Testing'. Status: Order processed and ready for admin review.
+25100020,2025-07-21 12:04:24,req_order,web,103.251.19.141,dealer #25100001 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-21 12:04:24,req_order,api,,Risk Management System: Rule 'Reject Rule Testing' intercepted SELL Market Order 0.10 lots @ 1.05400 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-21 12:04:24,req_order,api,,Risk Management: Order #250710970 (SELL Market Order 0.10 lots @ 1.05400 [Symbol:25100007]) REJECTED by rule 'Reject Rule Testing'. Status: Order processed and ready for admin review.
+25100020,2025-07-21 12:04:30,req_order,web,103.251.19.141,dealer #25100001 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-21 12:05:41,req_order,web,103.251.19.141,dealer #25100001 has created a new order type of market_order on behalf of you volume 1.000000
+25100020,2025-07-21 12:05:41,req_order,api,,Risk Management System: Rule 'Reject Rule Testing' intercepted BUY Market Order 1.00 lots @ 1.07100 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-21 12:05:41,req_order,api,,Risk Management: Order #250710972 (BUY Market Order 1.00 lots @ 1.07100 [Symbol:25100007]) REJECTED by rule 'Reject Rule Testing'. Status: Order processed and ready for admin review.
+25100020,2025-07-22 05:14:56,req_position,web,103.251.19.141,the dealer #25100022 has requested to close the position #250710489
+25100020,2025-07-22 05:16:43,req_account,web,103.251.19.141,account data has been updated
+25100020,2025-07-22 05:17:08,req_account,web,103.251.19.141,account data has been updated
+25100020,2025-07-22 11:41:51,req_order,web,150.107.232.219,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-22 11:41:51,req_order,api,,Risk Management System: Rule 'Reject Rule Testing' intercepted BUY Market Order 0.10 lots @ 1.05400 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-22 11:41:51,req_order,api,,Risk Management: Order #250711003 (BUY Market Order 0.10 lots @ 1.05400 [Symbol:25100007]) REJECTED by rule 'Reject Rule Testing'. Status: Order processed and ready for admin review.
+25100020,2025-07-22 11:43:43,req_order,web,150.107.232.219,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-22 11:43:43,req_order,api,,Risk Management System: Rule 'Reject Rule Testing' intercepted BUY Market Order 0.10 lots @ 1.08600 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-22 11:43:43,req_order,api,,Risk Management: Order #250711004 (BUY Market Order 0.10 lots @ 1.08600 [Symbol:25100007]) REJECTED by rule 'Reject Rule Testing'. Status: Order processed and ready for admin review.
+25100020,2025-07-23 10:53:27,req_order,web,150.107.232.219,dealer #25100009 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-23 10:53:27,req_order,api,192.168.0.8,Risk Management System: Rule 'Reject Rule Testing' intercepted BUY Market Order 0.10 lots @ 1.08200 [Symbol:25100007] order from Mobile App. Automatic processing initiated.
+25100020,2025-07-23 10:53:27,req_order,api,192.168.0.8,Risk Management: Order #250711011 (BUY Market Order 0.10 lots @ 1.08200 [Symbol:25100007]) REJECTED by rule 'Reject Rule Testing'. Status: Order processed and ready for admin review.
+25100020,2025-07-29 08:46:08,req_order,web,103.251.59.109,dealer #25100001 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-29 08:46:12,req_position,web,103.251.59.109,the dealer #25100001 has requested to close the position #250710560
+25100020,2025-07-29 08:56:32,req_order,web,103.251.59.109,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-07-29 08:57:16,req_position,web,103.251.59.109,the dealer #25100022 has requested to close the position #250710561
+25100020,2025-07-30 05:23:30,req_account,web,103.251.59.109,13000.000000 widthdrawed into your account 
+25100020,2025-07-30 05:24:12,req_account,web,103.251.59.109,10.000000 deposited into your account 
+25100020,2025-08-06 09:17:11,login,web,103.251.19.1,logged in to the system
+25100020,2025-08-07 05:50:35,req_account,web,103.251.19.1,1000.000000 deposited into your account 
+25100020,2025-08-07 05:51:07,req_account,web,103.251.19.1,account has been added to the favourite by the dealer 25100022
+25100020,2025-08-07 05:51:10,req_account,web,103.251.19.1,account has been removed to the favourite by the dealer 25100022
+25100020,2025-08-07 05:51:32,req_account,web,103.251.19.1,1000.000000 deposited into your account 
+25100020,2025-08-07 05:52:37,req_account,web,103.251.19.1,2000.000000 widthdrawed into your account 
+25100020,2025-08-12 07:00:50,req_order,web,103.251.19.1,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-08-12 07:00:55,req_position,web,103.251.19.1,the dealer #25100022 has requested to close the position #250810030
+25100020,2025-08-13 05:46:06,req_order,web,103.251.19.1,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-08-18 09:36:21,req_position,web,103.251.19.125,the dealer #25100001 has requested to update the position #250810054
+25100020,2025-08-18 09:37:17,req_position,web,103.251.19.125,the dealer #25100001 has requested to close the position #250810054
+25100020,2025-08-18 09:37:56,req_order,web,103.251.19.125,dealer #25100001 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-08-18 10:54:00,req_position,web,103.251.19.125,the dealer #25100022 has requested to close the position #250810078
+25100020,2025-08-18 10:54:40,req_order,web,103.251.19.125,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-08-18 10:56:40,req_position,web,103.251.19.125,the dealer #25100022 has requested to update the position #250810079
+25100020,2025-08-18 11:04:55,req_position,web,103.251.19.125,the dealer #25100022 has requested to update the position #250810079
+25100020,2025-08-20 09:41:47,req_order,web,103.251.19.125,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-08-23 11:02:04,req_order,web,103.251.19.125,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-08-23 11:02:08,req_order,web,103.251.19.125,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-08-23 11:02:13,req_order,web,103.251.19.125,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-08-23 11:02:16,req_order,web,103.251.19.125,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-08-23 11:02:19,req_order,web,103.251.19.125,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-08-23 11:02:51,req_order,web,103.251.19.125,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-08-23 12:04:04,req_account,web,103.251.19.125,account data has been updated
+25100020,2025-08-23 12:06:13,req_order,web,103.251.19.125,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-08-23 12:41:20,req_order,web,103.251.19.125,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-08-23 12:41:23,req_order,web,103.251.19.125,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-08-26 04:54:50,req_order,web,103.251.19.125,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-08-26 04:54:55,req_order,web,103.251.19.125,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-08-26 11:59:22,req_order,web,103.251.19.125,dealer #25100001 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-08-27 07:17:58,req_order,web,103.251.19.125,dealer #25100001 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-08-27 07:18:01,req_order,web,103.251.19.125,dealer #25100001 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-08-27 07:18:04,req_order,web,103.251.19.125,dealer #25100001 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-08-29 04:48:39,req_order,web,163.53.179.255,dealer #25100001 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-08-29 04:48:40,req_order,web,163.53.179.255,dealer #25100001 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-08-29 04:48:40,req_order,web,163.53.179.255,dealer #25100001 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-08-29 04:48:40,req_order,web,163.53.179.255,dealer #25100001 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-08-29 04:48:41,req_order,web,163.53.179.255,dealer #25100001 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-08-30 10:46:03,req_order,web,163.53.179.255,dealer #25100001 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-09-04 06:09:40,req_order,web,163.53.179.255,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-09-04 06:37:25,req_order,web,163.53.179.255,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-09-04 06:37:32,req_order,web,163.53.179.255,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-09-04 06:40:05,req_order,web,163.53.179.255,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-09-04 06:41:05,req_order,web,163.53.179.255,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-09-05 06:35:13,req_order,web,163.53.179.255,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-09-11 08:53:04,req_order,web,150.107.232.191,dealer #25100001 has created a new order type of market_order on behalf of you volume 10.000000
+25100020,2025-09-12 05:44:26,req_order,web,150.107.232.191,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-09-15 10:51:28,req_account,web,150.107.232.191,account data has been updated
+25100020,2025-09-17 12:09:47,req_order,web,150.107.232.191,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-09-17 12:09:58,req_order,web,150.107.232.191,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-09-17 12:10:09,req_order,web,150.107.232.191,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-09-17 12:13:05,req_position,web,150.107.232.191,the dealer #25100022 has requested to close the position #250910087
+25100020,2025-09-17 12:13:15,req_order,web,150.107.232.191,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-09-17 12:17:11,req_order,web,150.107.232.191,dealer #25100022 has created a new order type of market_order on behalf of you volume 100.000000
+25100020,2025-09-17 12:17:46,req_position,web,150.107.232.191,the dealer #25100022 has requested to close the position #250910089
+25100020,2025-09-17 12:17:46,req_position,web,150.107.232.191,the dealer #25100022 has requested to close the position #250910089
+25100020,2025-09-17 12:17:46,req_position,web,150.107.232.191,the dealer #25100022 has requested to close the position #250910089
+25100020,2025-09-17 12:17:46,req_position,web,150.107.232.191,the dealer #25100022 has requested to close the position #250910089
+25100020,2025-09-17 12:17:48,req_position,web,150.107.232.191,the dealer #25100022 has requested to close the position #250910089
+25100020,2025-09-17 12:17:48,req_position,web,150.107.232.191,the dealer #25100022 has requested to close the position #250910089
+25100020,2025-09-17 12:17:48,req_position,web,150.107.232.191,the dealer #25100022 has requested to close the position #250910089
+25100020,2025-09-17 12:17:48,req_position,web,150.107.232.191,the dealer #25100022 has requested to close the position #250910089
+25100020,2025-09-17 12:17:49,req_position,web,150.107.232.191,the dealer #25100022 has requested to close the position #250910086
+25100020,2025-09-17 12:17:52,req_position,web,150.107.232.191,the dealer #25100022 has requested to close the position #250910086
+25100020,2025-09-17 12:17:54,req_position,web,150.107.232.191,the dealer #25100022 has requested to close the position #250910085
+25100020,2025-09-17 12:18:05,req_position,web,150.107.232.191,the dealer #25100022 has requested to close the position #250910086
+25100020,2025-09-17 12:18:06,req_position,web,150.107.232.191,the dealer #25100022 has requested to close the position #250910086
+25100020,2025-09-17 12:18:10,req_position,web,150.107.232.191,the dealer #25100022 has requested to close the position #250910088
+25100020,2025-09-17 12:18:12,req_position,web,150.107.232.191,the dealer #25100022 has requested to close the position #250910088
+25100020,2025-09-17 12:19:27,req_position,web,150.107.232.191,the dealer #25100022 has requested to close the position #250910001
+25100020,2025-09-29 08:43:33,req_order,web,150.107.232.29,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.300000
+25100020,2025-09-29 08:43:33,req_order,web,150.107.232.29,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-09-29 08:47:09,req_order,web,150.107.232.29,dealer #25100022 has created a new order type of market_order on behalf of you volume 5.000000
+25100020,2025-09-29 08:48:58,req_order,web,150.107.232.29,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-09-29 08:50:30,req_order,web,150.107.232.29,dealer #25100022 has created a new order type of market_order on behalf of you volume 5.000000
+25100020,2025-09-30 10:31:45,login,web,150.107.232.29,logged in to the system
+25100020,2025-09-30 10:31:51,logout,web,150.107.232.29,logged out from the system
+25100020,2025-10-02 04:26:16,login,web,150.107.232.29,logged in to the system
+25100020,2025-10-02 04:26:26,req_order,web,150.107.232.29,new order has been requested type of market_order volume 0.100000 symbol #25100009
+25100020,2025-10-02 11:25:32,req_position,web,150.107.232.29,the dealer #25100001 has requested to close the position #251010024
+25100020,2025-10-02 11:25:33,req_position,web,150.107.232.29,the dealer #25100001 has requested to close the position #250910118
+25100020,2025-10-02 11:25:33,req_position,web,150.107.232.29,the dealer #25100001 has requested to close the position #250910117
+25100020,2025-10-02 11:25:33,req_position,web,150.107.232.29,the dealer #25100001 has requested to close the position #250910116
+25100020,2025-10-02 11:25:34,req_position,web,150.107.232.29,the dealer #25100001 has requested to close the position #250910112
+25100020,2025-10-02 11:25:34,req_position,web,150.107.232.29,the dealer #25100001 has requested to close the position #250910111
+25100020,2025-10-10 08:55:47,req_order,web,103.251.19.93,dealer #25100005 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-10-10 08:56:30,req_order,web,103.251.19.93,dealer #25100005 has created a new order type of market_order on behalf of you volume 1.000000
+25100020,2025-10-10 08:58:10,req_order,web,103.251.19.93,dealer #25100005 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-10-10 08:58:51,req_order,web,103.251.19.93,dealer #25100005 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-10-10 08:59:30,req_order,web,103.251.19.93,dealer #25100005 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-10-10 08:59:47,req_order,web,103.251.19.93,dealer #25100005 has created a new order type of market_order on behalf of you volume 1.000000
+25100020,2025-10-10 09:00:10,req_order,web,103.251.19.93,dealer #25100005 has created a new order type of market_order on behalf of you volume 100.000000
+25100020,2025-10-10 09:00:30,req_account,web,103.251.19.93,100000000000000.000000 deposited into your account 
+25100020,2025-10-10 09:00:40,req_order,web,103.251.19.93,dealer #25100005 has created a new order type of market_order on behalf of you volume 10.000000
+25100020,2025-10-10 09:01:00,req_order,web,103.251.19.93,dealer #25100005 has created a new order type of market_order on behalf of you volume 100.000000
+25100020,2025-10-16 06:38:15,login,web,103.251.59.28,logged in to the system
+25100020,2025-11-01 06:24:53,req_position,web,1.38.93.2,the dealer #25100022 has requested to close the position #251010073
+25100020,2025-11-01 06:24:56,req_position,web,1.38.93.2,the dealer #25100022 has requested to close the position #251010072
+25100020,2025-11-01 06:25:00,req_order,web,1.38.93.2,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-11-01 06:25:07,req_order,web,1.38.93.2,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-11-01 06:25:21,req_position,web,1.38.93.2,the dealer #25100022 has requested to close the position #251010100
+25100020,2025-11-01 06:25:22,req_position,web,1.38.93.2,the dealer #25100022 has requested to close the position #251010101
+25100020,2025-11-01 06:25:44,req_order,web,1.38.93.2,dealer #25100022 has created a new order type of market_order on behalf of you volume 10.000000
+25100020,2025-11-01 06:26:18,req_account,web,1.38.93.2,account data has been updated
+25100020,2025-11-01 06:26:22,req_order,web,1.38.93.2,dealer #25100022 has created a new order type of market_order on behalf of you volume 0.100000
+25100020,2025-11-04 05:13:58,login,web,150.107.232.28,logged in to the system
+25100020,2025-11-04 08:55:54,login,web,150.107.232.28,logged in to the system
+25100020,2025-11-04 08:56:21,logout,web,150.107.232.28,logged out from the system
+25100020,2025-11-04 08:58:24,req_account,web,150.107.232.28,500000.000000 deposited into your account 
+25100020,2025-11-04 09:00:37,req_account,web,150.107.232.28,1.000000 deposited into your account 
+25100020,2025-11-04 09:01:43,req_account,web,150.107.232.28,1.000000 deposited into your account 
+25100020,2025-11-06 07:28:54,req_order,web,150.107.232.28,dealer #25100001 has created a new order type of market_order on behalf of you volume 0.100000
