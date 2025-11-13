@@ -1,0 +1,1952 @@
+{"level":"info","ts":1756897500.9235187,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897500.9237523,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897505.9239914,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897505.9274607,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897505.9274888,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897510.928606,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897510.9317093,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897510.9317338,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897515.931883,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897515.9353127,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897515.9353619,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897520.935571,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897520.9384143,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897520.93845,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897525.938565,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897525.9414523,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897525.941477,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897530.9416478,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897530.9447625,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897530.9447942,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897535.9458969,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897535.9491792,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897535.9492064,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897540.9497132,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897540.9529166,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897540.9529488,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897545.9532037,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897545.9558997,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897545.9559305,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897550.956171,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897550.9589193,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897550.958949,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897555.9592507,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897555.9620883,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897555.9621205,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897560.9623125,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897560.9656537,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897560.9656882,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897565.966634,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897565.969614,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897565.96964,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897570.9698572,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897570.9730093,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897570.973034,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897575.9735641,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897575.9766045,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897575.9766333,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897580.9766908,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897580.9794497,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897580.9794784,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897585.9796088,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897585.983134,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897585.9831743,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897590.9836156,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897590.9863634,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897590.9863865,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897595.987469,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897595.9902165,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897595.990245,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897600.9912386,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897600.9941528,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897600.9941843,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897605.9943857,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897605.9973323,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897605.9973552,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897610.9979043,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897611.0010338,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897611.0010562,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897616.0015297,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897616.0046766,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897616.0047083,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897621.0060468,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897621.0090523,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897621.0090725,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897626.0093632,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897626.0121326,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897626.0121658,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897631.0125334,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897631.0156772,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897631.01571,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897636.0157914,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897636.0187213,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897636.0187547,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897641.019802,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897641.0232444,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897641.023284,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897646.0236478,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897646.026924,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897646.0269632,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897651.0279737,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897651.031199,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897651.031228,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897656.0312831,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897656.0340846,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897656.0341284,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897661.034731,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897661.037527,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897661.0375497,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897666.0376797,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897666.0410933,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897666.0411408,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897671.041727,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897671.0444155,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897671.0444472,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897676.044755,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897676.0476775,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897676.0477073,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897681.0477881,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897681.0508275,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897681.050858,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897686.051936,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897686.0550613,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897686.0551012,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897691.055555,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897691.0584993,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897691.0585349,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897696.058914,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897696.0618572,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897696.0618854,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897701.0619898,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897701.0650618,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897701.0650883,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897706.0658467,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897706.0688224,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897706.068846,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897711.0698516,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897711.0728164,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897711.0728383,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897716.0735695,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897716.0764031,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897716.076434,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897721.0775714,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897721.0805063,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897721.0805345,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897726.0810037,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897726.084193,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897726.0842257,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897731.0847716,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897731.0879953,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897731.0880196,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897736.0881388,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897736.0910141,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897736.0910404,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897741.091674,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897741.0942843,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897741.0943131,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897746.0952783,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897746.0987976,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897746.0988245,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897751.0993135,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897751.1025298,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897751.1025639,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897756.1031115,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897756.1079075,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897756.1079519,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897761.1082277,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897761.11107,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897761.111094,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897766.1116667,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897766.1152804,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897766.1153147,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897771.115916,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897771.1186533,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897771.1186855,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897776.119406,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897776.1224802,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897776.122511,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897781.1230304,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897781.1259756,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897781.1260078,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897786.1267984,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897786.1297936,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897786.1298263,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897791.130227,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897791.1332073,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897791.1332424,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897796.1334553,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897796.1367242,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897796.136753,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897801.1370964,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897801.1405065,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897801.1405423,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897806.1407506,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897806.1446211,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897806.1446662,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897811.1457574,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897811.1489167,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897811.1489453,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897816.15006,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897816.153012,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897816.1530416,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897821.1540537,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897821.157059,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897821.1570852,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897826.1575847,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897826.1607394,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897826.160774,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897831.161352,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897831.1641824,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897831.164213,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897836.1651802,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897836.168054,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897836.1680853,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897841.169185,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897841.1720653,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897841.1721008,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897846.1726425,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897846.1754618,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897846.1754937,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897851.1758528,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897851.17848,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897851.1785085,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897856.1792135,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897856.1824028,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897856.1824288,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897861.1826682,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897861.185305,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897861.1853244,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897866.1862218,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897866.1891491,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897866.1891704,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897871.1892352,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897871.192557,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897871.1925898,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897876.192804,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897876.1960366,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897876.1960702,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897881.1966014,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897881.1994073,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897881.1994424,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897886.1995275,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897886.2024832,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897886.2025154,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897891.2035942,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897891.2064722,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897891.206504,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897896.206859,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897896.2098517,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897896.209887,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897901.2107773,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897901.213754,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897901.2138133,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897906.2142956,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897906.216931,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897906.2169557,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897911.2173703,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897911.220119,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897911.2201486,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897916.2208798,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897916.2239223,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897916.2239733,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897921.224933,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897921.227889,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897921.2279184,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897926.2281933,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897926.2315986,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897926.231633,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897931.232378,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897931.2352784,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897931.2353146,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897936.236239,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897936.2398167,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897936.2398741,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897941.2409208,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897941.2438784,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897941.2439132,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897946.2444546,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897946.2473702,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897946.2474043,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897951.2483697,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897951.2510526,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897951.2510839,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897956.2515774,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897956.2552469,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897956.25528,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897961.255806,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897961.2588484,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897961.258875,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897966.2596228,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897966.2627861,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897966.2628152,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897971.2639387,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897971.266789,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897971.2668183,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897976.2668943,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897976.2703366,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897976.2703583,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897981.27087,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897981.2736802,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897981.2737021,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897986.2739394,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897986.2769518,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897986.2769768,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897991.2771325,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897991.280063,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897991.2800968,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756897996.2806902,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756897996.283819,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756897996.2838535,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898001.2843714,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898001.2874105,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898001.287443,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898006.2878206,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898006.2905278,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898006.2905605,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898011.2906826,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898011.2938573,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898011.2938895,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898016.294441,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898016.297398,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898016.2974231,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898021.29779,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898021.300825,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898021.3008535,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898026.3017528,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898026.3043842,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898026.304406,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898031.3054593,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898031.308413,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898031.308442,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898036.3087642,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898036.3114107,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898036.3114388,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898041.3123093,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898041.3151512,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898041.3151824,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898046.3159387,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898046.318942,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898046.3189807,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898051.3193986,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898051.3234284,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898051.323478,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898056.324018,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898056.3268425,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898056.326874,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898061.3277242,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898061.3304346,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898061.3304636,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898066.3315625,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898066.334782,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898066.3348222,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898071.3356335,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898071.33839,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898071.338423,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898076.3392017,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898076.3420873,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898076.3421159,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898081.3429093,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898081.3458166,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898081.3458521,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898086.346253,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898086.3490214,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898086.349042,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898091.3491628,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898091.3520257,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898091.3520622,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898096.352771,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898096.3554962,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898096.355526,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898101.3562498,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898101.3626468,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898101.3626854,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898106.363713,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898106.3671958,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898106.367234,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898111.3676255,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898111.3707113,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898111.3707528,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898116.3717103,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898116.3747523,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898116.3747845,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898121.3753512,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898121.378392,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898121.3784213,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898126.3787937,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898126.3818846,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898126.3819182,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898131.3822198,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898131.3852348,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898131.3852584,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898136.386309,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898136.3893564,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898136.389381,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898141.3897283,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898141.3928733,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898141.3929088,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898146.3937833,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898146.3965025,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898146.396529,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898151.3967698,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898151.4002216,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898151.400259,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898156.4012156,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898156.4041905,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898156.40423,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898161.404963,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898161.4088333,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898161.4088674,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898166.4095483,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898166.4125586,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898166.4125977,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898171.4127226,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898171.415846,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898171.415877,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898176.417009,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898176.419842,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898176.419888,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898181.420858,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898181.4239798,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898181.4240172,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898186.4248705,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898186.4277647,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898186.4278052,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898191.4282284,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898191.4311903,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898191.431218,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898196.4318247,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898196.4344692,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898196.434499,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898201.4349146,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898201.437699,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898201.4377244,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898206.438359,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898206.4429932,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898206.4430273,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898211.4431643,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898211.446134,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898211.4461653,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898216.4463944,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898216.4496648,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898216.4496913,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898221.450363,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898221.4535346,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898221.4535613,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898226.4537387,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898226.4569497,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898226.4569879,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898231.4572773,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898231.4602394,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898231.4602695,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898236.4608,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898236.4638352,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898236.4638839,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898241.464788,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898241.4679163,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898241.4679432,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898246.4687374,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898246.4717586,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898246.4717853,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898251.473039,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898251.475824,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898251.4758406,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898256.4765947,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898256.4793487,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898256.479375,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898261.4818158,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898261.4849112,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898261.4849327,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898266.4860168,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898266.4895215,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898266.489559,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898271.4897146,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898271.492649,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898271.4926789,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898276.4935188,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898276.4965005,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898276.4965315,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898281.4969857,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898281.4997034,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898281.499725,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898286.5004387,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898286.503697,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898286.5037322,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898291.504307,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898291.507117,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898291.5071528,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898296.5076118,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898296.5106223,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898296.5106494,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898301.5113356,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898301.5147934,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898301.514824,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898306.515553,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898306.5185883,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898306.5186188,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898311.5196147,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898311.5225272,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898311.5225554,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898316.5234962,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898316.5262914,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898316.526321,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898321.5269036,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898321.5300493,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898321.5300765,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898326.5301912,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898326.5328991,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898326.5329218,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898331.5331893,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898331.535887,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898331.5359128,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898336.5364735,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898336.5392733,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898336.5393004,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898341.5396428,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898341.5428762,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898341.5429096,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898346.5434556,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898346.5465002,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898346.5465329,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898351.547215,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898351.5500908,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898351.5501225,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898356.5504704,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898356.5532691,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898356.5533004,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898361.554358,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898361.55725,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898361.5572736,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898366.5580115,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898366.5607922,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898366.5608191,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898371.5613954,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898371.5645967,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898371.5646396,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898376.5647619,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898376.568601,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898376.5686338,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898381.5695007,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898381.572664,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898381.5726957,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898386.5728233,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898386.5755503,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898386.575578,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898391.5763881,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898391.5795767,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898391.579611,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898396.580574,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898396.5837362,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898396.5837653,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898401.5838277,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898401.5870209,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898401.5870557,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898406.5872197,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898406.5903184,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898406.590351,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898411.5904484,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898411.5936444,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898411.5936706,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898416.5945978,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898416.5980844,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898416.598118,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898421.598247,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898421.6011944,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898421.6012194,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898426.6022227,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898426.605165,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898426.6051934,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898431.6056573,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898431.6084945,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898431.6085274,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898436.6093392,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898436.6122444,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898436.6122704,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898441.6126485,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898441.6159084,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898441.6159422,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898446.6164794,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898446.6199594,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898446.6199906,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898451.6201394,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898451.6230426,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898451.6230705,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898456.623799,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898456.6263967,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898456.6264226,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898461.6270869,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898461.6299038,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898461.6299365,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898466.6305065,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898466.6342945,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898466.63433,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898471.6354334,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898471.6382232,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898471.638261,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898476.639258,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898476.6424773,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898476.6425126,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898481.642721,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898481.6454482,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898481.645474,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898486.6455758,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898486.6487901,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898486.6488228,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898491.6498232,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898491.6526604,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898491.6526842,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898496.6535592,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898496.6563034,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898496.656341,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898501.6572664,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898501.6606507,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898501.660688,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898506.6612258,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898506.6640315,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898506.664063,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898511.6641822,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898511.6674068,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898511.6674378,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898516.6685286,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898516.6712286,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898516.6712685,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898521.6715088,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898521.674574,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898521.6746063,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898526.6752782,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898526.6785588,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898526.678592,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898531.679435,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898531.6827528,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898531.682789,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898536.6830037,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898536.6861548,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898536.6861863,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898541.6870756,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898541.6898396,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898541.689872,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898546.690808,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898546.6941574,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898546.694189,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898551.6952171,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898551.6980984,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898551.6981242,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898556.6986318,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898556.7018304,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898556.7018619,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898561.7020721,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898561.7048857,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898561.7049067,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898566.7051568,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898566.7077806,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898566.7078063,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898571.7086625,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898571.7113044,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898571.7113366,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898576.7123406,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898576.7157514,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898576.715783,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898581.7159042,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898581.7188873,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898581.7189465,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898586.7193625,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898586.7224584,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898586.7224998,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898591.7235384,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898591.7266645,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898591.7267098,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898596.727261,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898596.7303522,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898596.7303877,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898601.7308483,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898601.7337873,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898601.7338235,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898606.7339842,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898606.7368975,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898606.7369208,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898611.737491,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898611.7405453,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898611.7405775,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898616.7412364,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898616.7444541,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898616.744488,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898621.7451644,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898621.7481008,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898621.7481349,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898626.7489913,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898626.751939,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898626.7519703,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898631.7528474,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898631.7556741,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898631.7557049,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898636.75645,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898636.75942,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898636.7594545,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898641.75962,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898641.7628756,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898641.7629075,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898646.7630968,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898646.7660677,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898646.7661006,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898651.7666972,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898651.7697241,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898651.7697551,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898656.7706602,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898656.7740252,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898656.77406,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898661.7744074,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898661.7777207,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898661.777759,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898666.7787008,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898666.7816384,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898666.781659,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898671.7825918,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898671.785499,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898671.785522,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898676.7858484,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898676.7886968,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898676.7887173,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898681.789693,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898681.792711,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898681.7927606,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898686.7937531,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898686.7965589,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898686.796582,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898691.7976623,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898691.8008714,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898691.800894,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898696.800964,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898696.8039575,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898696.8039854,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898701.805052,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898701.8080027,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898701.8080263,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898706.8084147,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898706.8111322,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898706.8111603,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898711.8119047,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898711.8148832,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898711.8149192,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898716.8151932,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898716.8184292,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898716.8184552,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898721.8194578,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898721.8226404,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898721.8226695,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898726.8235545,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898726.8272152,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898726.827254,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898731.8274527,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898731.8301237,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898731.8301756,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898736.8310077,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898736.8340752,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898736.8341079,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898741.8346379,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898741.8373935,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898741.8374205,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898746.837878,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898746.8407707,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898746.8407934,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898751.8411138,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898751.843817,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898751.8438475,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898756.8439865,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898756.8470805,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898756.8471117,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898761.8476717,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898761.8506854,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898761.85072,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898766.8508646,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898766.8536572,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898766.8536792,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898771.8540514,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898771.8571546,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898771.8571808,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898776.8573608,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898776.8607638,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898776.8608098,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898781.8612258,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898781.8642695,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898781.8642972,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898786.8646924,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898786.8678336,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898786.867865,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898791.868678,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898791.8716967,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898791.8717282,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898796.871898,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898796.8746562,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898796.8746893,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898801.8756025,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898801.878463,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898801.8784955,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898806.8786478,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898806.8815162,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898806.881552,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898811.8820379,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898811.8848424,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898811.8848662,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898816.8852873,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898816.888906,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898816.8889394,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898821.8898625,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898821.8928914,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898821.8929172,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898826.8929868,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898826.8968313,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898826.8968663,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898831.897504,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898831.9004364,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898831.900474,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898836.901506,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898836.9048238,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898836.9048588,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898841.9058213,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898841.9084377,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898841.9084644,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898846.909528,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898846.9124506,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898846.912484,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898851.9128232,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898851.9157488,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898851.9157774,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898856.916177,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898856.9191859,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898856.919223,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898861.9198935,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898861.9228601,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898861.922891,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898866.9229488,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898866.9256725,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898866.9256988,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898871.926514,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898871.9293716,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898871.9294016,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898876.930465,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898876.93331,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898876.9333322,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898881.9336207,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898881.9370408,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898881.9370804,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898886.938087,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898886.9407227,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898886.9407504,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898891.941005,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898891.9442399,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898891.9442773,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898896.9453282,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898896.948646,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898896.9486814,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898901.9487462,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898901.9515676,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898901.9515958,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898906.951849,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898906.9545684,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898906.9545953,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898911.955071,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898911.9579427,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898911.9579716,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898916.9584773,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898916.9611707,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898916.9611907,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898921.962094,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898921.9654825,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898921.9655056,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898926.9656777,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898926.968682,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898926.9687254,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898931.9688168,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898931.9717524,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898931.9717784,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898936.9725537,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898936.975852,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898936.9758828,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898941.976997,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898941.980402,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898941.980465,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898946.9812021,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898946.9846718,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898946.9847138,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898951.9853892,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898951.9885828,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898951.9886315,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898956.9887722,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898956.9916964,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898956.9917257,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898961.9922957,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898961.9957027,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898961.9957323,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898966.995903,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898966.9995198,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898966.9995544,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898971.9997041,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898972.002711,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898972.0027435,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898977.00345,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898977.0062037,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898977.0062325,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898982.007008,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898982.0101762,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898982.010207,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898987.0106237,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898987.0133402,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898987.0133617,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898992.0140424,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898992.0168936,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898992.016918,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756898997.0176668,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756898997.0206988,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756898997.0207298,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899002.0210645,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899002.0240948,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899002.0241315,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899007.0251386,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899007.030272,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899007.0303113,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899012.0307367,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899012.0338778,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899012.0339108,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899017.034775,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899017.0385034,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899017.0385375,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899022.0395956,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899022.0425222,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899022.0425577,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899027.0433428,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899027.0461683,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899027.0462017,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899032.0469453,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899032.0496616,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899032.0496907,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899037.050796,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899037.0539923,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899037.0540187,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899042.0549564,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899042.057888,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899042.0579321,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899047.058596,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899047.0618224,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899047.0618584,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899052.0626028,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899052.0654447,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899052.0654693,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899057.0664048,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899057.0689197,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899057.0689552,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899062.0698867,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899062.0736647,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899062.0736933,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899067.0741458,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899067.077214,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899067.077244,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899072.078097,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899072.0811212,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899072.0811467,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899077.0816543,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899077.0845618,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899077.0845904,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899082.0850837,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899082.0879295,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899082.0879617,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899087.0882974,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899087.0912306,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899087.0912614,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899092.0917392,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899092.0945277,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899092.0945609,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899097.0949965,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899097.0977154,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899097.097749,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899102.098248,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899102.1009018,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899102.1009283,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899107.1011972,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899107.1041472,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899107.1041791,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899112.104814,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899112.1078436,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899112.107875,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899117.1080046,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899117.1107655,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899117.1108086,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899122.1118474,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899122.115767,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899122.1158042,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899127.1165624,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899127.120293,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899127.12033,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899132.1204314,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899132.1241195,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899132.1241581,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899137.1247766,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899137.1276312,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899137.1276667,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899142.128285,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899142.1309292,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899142.13096,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899147.131132,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899147.1336727,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899147.133695,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899152.1346257,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899152.1375048,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899152.137529,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899157.1379461,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899157.1409624,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899157.1409876,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899162.141307,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899162.144544,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899162.14457,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899167.144718,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899167.1500719,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899167.150101,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899172.1511114,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899172.154103,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899172.1541317,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899177.155073,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899177.157495,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899177.157516,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899182.1585124,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899182.1616018,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899182.1616306,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899187.1618228,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899187.1644845,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899187.1645105,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899192.1650147,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899192.1684973,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899192.1685376,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899197.1693094,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899197.1720445,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899197.1720726,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899202.1726997,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899202.1758177,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899202.175856,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899207.176969,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899207.180147,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899207.1801777,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899212.1812582,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899212.1846862,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899212.1847203,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899217.1857462,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899217.1885858,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899217.18862,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899222.1887152,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899222.1917496,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899222.1917834,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899227.192707,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899227.1959736,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899227.1959994,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899232.196915,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899232.199842,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899232.1998694,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899237.2000678,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899237.2037323,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899237.203761,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899242.204302,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899242.2075748,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899242.2076168,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899247.2082255,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899247.211088,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899247.2111242,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899252.2119634,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899252.2149775,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899252.2150142,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899257.2155836,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899257.2189236,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899257.2189617,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899262.219816,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899262.2228143,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899262.2228599,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899267.2230933,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899267.225873,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899267.2259042,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899272.2266512,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899272.2299078,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899272.2299361,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899277.2310371,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899277.234525,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899277.23456,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899282.2356331,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899282.2382393,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899282.2382638,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899287.2389174,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899287.2421496,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899287.2421825,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899292.2429547,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899292.2459788,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899292.2460096,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899297.246199,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899297.2487736,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899297.2487981,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899302.2498474,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899302.2564163,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899302.2564545,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899307.257058,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899307.2602527,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899307.2603023,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899312.2603679,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899312.2637799,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899312.2638144,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899317.2648797,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899317.267838,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899317.2678742,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899322.2680762,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899322.2718632,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899322.2719238,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899327.2720068,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899327.2751372,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899327.275173,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899332.276197,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899332.2790713,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899332.2791097,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899337.280142,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899337.2833288,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899337.2833626,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899342.2840514,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899342.2871058,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899342.2871463,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899347.2877884,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899347.290797,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899347.2908192,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899352.2916477,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899352.294601,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899352.2946415,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899357.2951498,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899357.2988112,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899357.2988434,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899362.2991629,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899362.3021832,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899362.3022265,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899367.303234,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899367.3062162,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899367.3062525,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899372.3067172,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899372.3102784,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899372.3103163,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899377.311017,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899377.3139524,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899377.3139904,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899382.3146799,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899382.318024,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899382.318057,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899387.318274,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899387.3210797,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899387.3211122,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899392.3220868,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899392.3250558,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899392.325081,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899397.3261597,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899397.329135,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899397.3291585,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899402.3297815,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899402.332932,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899402.3329606,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899407.333211,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899407.3359714,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899407.336002,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899412.3370104,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899412.3399646,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899412.3399923,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899417.3410323,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899417.3441808,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899417.3442144,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899422.3449981,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899422.3482232,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899422.348261,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899427.349144,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899427.3519845,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899427.3520284,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899432.353135,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899432.356106,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899432.3561382,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899437.3562367,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899437.3623092,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899437.3623452,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899442.3631434,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899442.3660336,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899442.3660655,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899447.3667305,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899447.3694887,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899447.369511,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899452.3706186,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899452.37357,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899452.3735945,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899457.37368,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899457.3765216,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899457.3765543,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899462.376726,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899462.37978,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899462.379825,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899467.3803906,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899467.383274,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899467.3832998,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899472.3843613,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899472.3870955,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899472.3871226,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899477.3874483,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899477.3906188,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899477.3906534,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899482.3909147,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899482.393811,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899482.3938472,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899487.3941839,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899487.396956,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899487.39698,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899492.3978252,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899492.4006946,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899492.4007187,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899497.4017205,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899497.4045665,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899497.4045963,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899502.4047737,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899502.4077072,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899502.4077463,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899507.4081278,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899507.411322,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899507.4113579,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899512.4118226,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899512.414426,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899512.4144583,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899517.4146974,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899517.417501,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899517.4175224,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899522.4182765,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899522.4212215,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899522.421243,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899527.4216862,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899527.4244087,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899527.424448,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899532.4255385,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899532.4294343,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899532.4294777,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899537.4298055,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899537.43296,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899537.4329827,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899542.4338942,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899542.4369152,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899542.4369395,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899547.4371688,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899547.4400299,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899547.4400814,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899552.4402587,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899552.4436352,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899552.4436672,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899557.444532,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899557.4478295,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899557.4478674,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899562.4487758,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899562.4518385,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899562.4518738,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899567.452829,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899567.4555948,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899567.4556255,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899572.45629,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899572.4596887,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899572.459736,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899577.4604347,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899577.4634247,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899577.4634576,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899582.4641016,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899582.4671478,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899582.4671783,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899587.46744,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899587.4709792,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899587.4710104,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899592.47154,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899592.4744594,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899592.4744897,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899597.475394,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899597.4784482,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899597.478477,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899602.4791036,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899602.4831011,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899602.4831378,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899607.4836895,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899607.4866524,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899607.486689,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899612.4877813,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899612.4908462,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899612.4908829,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899617.491202,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899617.4943566,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899617.494391,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899622.4945939,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899622.4974205,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899622.497447,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899627.4982886,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899627.501291,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899627.5013156,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899632.5024185,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899632.505126,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899632.5051486,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899637.5056171,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899637.5087485,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899637.5087698,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899642.5090268,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899642.5117354,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899642.5117612,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899647.5119767,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899647.5153222,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899647.5153477,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899652.5163069,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899652.5192668,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899652.519299,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899657.5203638,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899657.5231123,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899657.5231442,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899662.523508,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899662.526854,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899662.526886,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899667.5280101,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899667.5313993,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899667.5314367,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899672.5315683,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899672.5346582,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899672.5346951,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899677.5355995,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899677.538445,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899677.5384831,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899682.5386517,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899682.5416894,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899682.5417151,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899687.542762,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899687.546304,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899687.5463374,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899692.546623,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899692.549457,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899692.5494788,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899697.5499358,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899697.5525763,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899697.5525982,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899702.5533998,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899702.556552,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899702.556586,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899707.557077,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899707.5597746,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899707.5598052,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899712.5608215,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899712.5633738,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899712.5634117,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899717.5642927,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899717.5671213,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899717.5671542,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899722.5676713,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899722.5707734,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899722.5708075,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899727.5718796,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899727.6163373,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899727.6165926,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899732.6167476,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899732.6199372,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899732.6199732,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899737.6200953,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899737.6230164,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899737.623044,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899742.6241314,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899742.6268258,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899742.6268523,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899747.6277092,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899747.630493,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899747.630518,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899752.630728,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899752.633225,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899752.6332462,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899757.6339886,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899757.636941,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899757.6369646,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899762.6380055,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899762.640578,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899762.640602,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899767.641314,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899767.6441863,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899767.6442173,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899772.6443598,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899772.6478653,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899772.6479,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899777.648117,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899777.651063,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899777.6510892,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899782.6516335,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899782.655058,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899782.655093,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899787.6561515,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899787.659565,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899787.6596034,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899792.6604595,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899792.663327,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899792.6633592,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899797.6635203,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899797.6668963,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899797.6669316,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899802.6679993,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899802.6708102,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899802.6708424,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899807.67184,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899807.6747391,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899807.6747751,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899812.6753364,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899812.6784043,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899812.6784353,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899817.6790702,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899817.6824212,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899817.682459,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899822.6830776,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899822.686007,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899822.6860404,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899827.6868384,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899827.6902387,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899827.6902723,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899832.6904,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899832.6933234,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899832.693346,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899837.6940978,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899837.6970181,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899837.6970456,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899842.6972513,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899842.7000477,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899842.700084,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899847.700226,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899847.7034438,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899847.7034793,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899852.703668,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899852.706793,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899852.7068272,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899857.7075932,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899857.710864,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899857.710892,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899862.711467,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899862.7141883,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899862.714224,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899867.7151325,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899867.7181404,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899867.7181716,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899872.719026,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899872.722497,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899872.7225282,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899877.7230198,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899877.7257297,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899877.7257533,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899882.726125,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899882.729892,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899882.7299387,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899887.7304442,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899887.7329261,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899887.7329504,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899892.7338197,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899892.7368634,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899892.7368882,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899897.7370627,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899897.7398467,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899897.7398882,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899902.7406557,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899902.750455,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899902.7505114,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899907.7507422,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899907.7552326,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899907.755269,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899912.756172,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899912.759547,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899912.7595813,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899917.7606802,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899917.7635584,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899917.763589,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899922.7643595,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899922.7675319,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899922.767569,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899927.768536,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899927.7716677,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899927.7716954,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899932.772157,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899932.7751772,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899932.7752044,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899937.7760966,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899937.779326,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899937.7793634,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899942.7795243,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899942.7825496,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899942.7825718,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899947.782946,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899947.785822,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899947.7858534,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899952.7862823,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899952.7894793,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899952.7895024,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899957.7903175,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899957.793157,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899957.793181,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899962.7936945,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899962.7968066,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899962.796843,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899967.7977002,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899967.801952,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899967.8019981,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899972.8028815,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899972.8056443,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899972.8056684,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899977.8062809,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899977.8089797,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899977.8089998,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899982.8095527,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899982.812179,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899982.8122082,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899987.812719,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899987.8155193,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899987.8155482,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899992.8163025,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899992.81916,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899992.8191898,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756899997.8193994,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756899997.8223977,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756899997.8224294,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900002.8229036,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900002.8262541,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900002.8262818,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900007.8263533,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900007.8293216,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900007.8293457,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900012.829469,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900012.8324993,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900012.832532,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900017.8332336,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900017.8362606,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900017.8362837,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900022.8363843,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900022.839402,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900022.839437,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900027.8397758,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900027.8426487,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900027.8426998,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900032.843786,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900032.8467338,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900032.846773,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900037.8469353,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900037.8509595,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900037.8510118,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900042.8511393,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900042.8540897,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900042.8541405,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900047.8549237,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900047.8582795,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900047.8583105,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900052.858907,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900052.8615756,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900052.8615968,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900057.861777,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900057.8645778,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900057.8646042,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900062.8646755,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900062.8677907,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900062.8678253,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900067.8686297,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900067.8717017,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900067.8717315,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900072.8724508,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900072.8753436,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900072.8753748,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900077.875687,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900077.8784697,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900077.878498,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900082.8787506,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900082.8816373,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900082.8816624,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900087.8819377,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900087.8847215,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900087.884746,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900092.8849115,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900092.888102,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900092.8881366,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900097.8884852,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900097.8918002,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900097.8918333,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900102.8924918,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900102.895692,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900102.8957253,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900107.8968446,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900107.9002821,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900107.9003215,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900112.9004207,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900112.9031515,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900112.903184,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900117.9037743,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900117.9068913,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900117.9069457,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900122.907281,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900122.9102523,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900122.9102864,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900127.910697,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900127.9135458,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900127.9135668,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900132.9143953,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900132.9177299,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900132.917753,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900137.918411,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900137.9216514,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900137.921673,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900142.9217856,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900142.9246955,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900142.9247239,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900147.925073,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900147.9282007,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900147.9282384,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900152.9291732,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900152.9323537,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900152.9323885,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900157.9328847,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900157.9357905,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900157.935828,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900162.9359832,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900162.9386747,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900162.9387064,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900167.9391057,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900167.942478,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900167.9425147,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900172.9435313,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900172.9465744,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900172.9466152,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900177.9467778,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900177.9494884,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900177.949512,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900182.9505515,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900182.9532669,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900182.9532888,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900187.953876,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900187.9567223,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900187.9567556,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900192.9569943,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900192.9603033,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900192.960334,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900197.960817,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900197.964204,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900197.9642336,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900202.9644487,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900202.9683855,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900202.9684129,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900207.969193,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900207.9719944,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900207.9720285,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900212.9723392,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900212.9751277,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900212.97515,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900217.975979,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900217.979091,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900217.9791179,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900222.979476,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900222.9825163,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900222.9825687,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900227.9829247,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900227.9856865,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900227.9857106,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900232.9863937,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900232.9893816,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900232.989405,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900237.9900231,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900237.9930844,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900237.9931152,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900242.993718,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900242.9968085,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900242.9968295,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900247.9969869,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900248.0000403,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900248.0000725,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900253.0005026,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900253.0038705,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900253.0038958,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900258.004857,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900258.00774,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900258.0077682,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900263.0080817,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900263.0111194,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900263.0111563,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900268.011754,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900268.0150332,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900268.0150695,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900273.0151603,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900273.0187747,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900273.0188105,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900278.0198054,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900278.0226436,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900278.0226715,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900283.0227652,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900283.025685,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900283.0257106,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900288.0262346,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900288.0290747,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900288.0290997,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900293.0298448,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900293.0325232,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900293.0325494,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900298.0328684,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900298.0361378,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900298.0361724,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900303.036917,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900303.0402627,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900303.0402956,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900308.0404127,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900308.0434544,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900308.043488,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900313.0445094,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900313.0473347,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900313.047367,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900318.0475154,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900318.0503073,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900318.0503342,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900323.0505934,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900323.0541923,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900323.0542307,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900328.055302,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900328.058996,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900328.059036,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900333.059781,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900333.0627427,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900333.0627873,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900338.0638463,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900338.0669007,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900338.0669365,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900343.068043,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900343.0705776,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900343.0706182,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900348.071732,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900348.074794,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900348.074831,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900353.0756762,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900353.0784361,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900353.0784655,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900358.0786083,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900358.0817337,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900358.0817542,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900363.0824163,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900363.0852065,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900363.085228,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900368.0858383,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900368.0885983,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900368.0886216,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900373.0896127,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900373.0929894,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900373.0930197,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900378.093886,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900378.096709,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900378.0967298,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900383.0968125,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900383.099821,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900383.0998576,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900388.1000361,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900388.102727,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900388.10276,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900393.10337,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900393.1062865,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900393.1063178,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900398.1065826,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900398.1092777,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900398.1093025,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900403.1100924,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900403.1130111,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900403.1130345,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900408.1131365,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900408.1167293,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900408.1167622,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900413.1168478,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900413.1200032,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900413.120028,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900418.1210604,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900418.1237166,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900418.1237392,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900423.1238492,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900423.1265225,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900423.1265526,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900428.1268811,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900428.1298265,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900428.1298583,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900433.1309695,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900433.1339297,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900433.1339602,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900438.1341171,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900438.1371062,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900438.1371303,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900443.1378145,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900443.1406512,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900443.140685,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900448.1407483,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900448.1440701,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900448.144106,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900453.1448486,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900453.1479783,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900453.1480103,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900458.1489406,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900458.1518188,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900458.1518526,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900463.1529775,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900463.156099,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900463.1561346,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900468.1562855,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900468.1589377,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900468.1589673,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900473.1599317,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900473.162788,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900473.1628187,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900478.163902,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900478.1670032,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900478.167041,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900483.1680954,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900483.1709747,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900483.171004,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900488.1719599,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900488.1752517,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900488.1752832,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900493.1754036,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900493.178411,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900493.1784422,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900498.1789174,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900498.1815677,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900498.181588,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900503.1819782,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900503.1852076,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900503.1852365,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900508.1857998,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900508.1886535,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900508.1886814,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900513.189802,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900513.1931715,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900513.193208,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900518.1940687,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900518.197483,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900518.1975102,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900523.1982937,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900523.201608,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900523.2016351,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900528.2024007,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900528.2051563,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900528.2051823,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900533.2063005,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900533.2091079,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900533.209134,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900538.209946,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900538.2135012,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900538.2135274,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900543.2143495,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900543.2171648,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900543.21719,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900548.2179294,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900548.2204974,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900548.220518,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900553.2210042,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900553.2238147,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900553.2238429,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900558.2245324,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900558.227267,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900558.227306,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900563.2282028,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900563.231377,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900563.231417,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900568.2315753,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900568.2348473,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900568.234881,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900573.234959,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900573.237874,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900573.237903,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900578.2389019,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900578.2419722,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900578.2420144,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900583.2429967,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900583.2461417,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900583.2462447,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900588.2469053,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900588.2496963,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900588.2497194,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900593.2498574,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900593.253007,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900593.2530322,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900598.2539577,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900598.2567554,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900598.2567763,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900603.2569075,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900603.2601144,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900603.2601442,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900608.2603986,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900608.2632077,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900608.2632298,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900613.2640336,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900613.2668726,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900613.266901,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900618.267225,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900618.2699637,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900618.2699873,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900623.2701542,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900623.27312,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900623.2731557,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900628.2740526,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900628.2770958,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900628.2771227,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900633.2772725,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900633.2804701,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900633.280509,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900638.281009,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900638.2838528,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900638.2838879,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900643.284689,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900643.2886605,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900643.2886968,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900648.289623,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900648.2930741,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900648.293127,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900653.2936776,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900653.296937,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900653.2969615,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900658.2971761,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900658.3000512,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900658.3000917,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900663.3010647,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900663.30428,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900663.3043134,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900668.3047454,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900668.3080182,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900668.3080487,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900673.3086133,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900673.3115456,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900673.3115773,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900678.3125165,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900678.3157003,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900678.3157334,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900683.316622,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900683.3197691,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900683.3198035,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900688.3202617,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900688.3231778,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900688.3232124,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900693.3235784,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900693.3267956,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900693.326828,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900698.3278558,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900698.3312957,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900698.331326,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900703.3324175,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900703.33529,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900703.3353245,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900708.3362947,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900708.3392315,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900708.339266,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900713.3402364,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900713.3433065,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900713.3433468,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900718.3434453,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900718.346459,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900718.346491,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900723.3471646,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900723.3504336,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900723.3504586,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900728.351341,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900728.354615,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900728.3546422,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900733.3556902,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900733.3595157,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900733.3595479,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900738.3604236,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900738.3642454,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900738.3642783,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900743.36476,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900743.368027,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900743.368066,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900748.3689804,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900748.3718982,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900748.3719323,"msg":"Reconnecting in 5s"}
+{"level":"info","ts":1756900753.3720572,"msg":"Connecting to: fixsim.hstrader.com:6002"}
+{"level":"info","ts":1756900753.3755283,"msg":"Failed to connect: dial tcp 64.226.121.196:6002: connect: connection refused"}
+{"level":"info","ts":1756900753.375572,"msg":"Reconnecting in 5s"}
